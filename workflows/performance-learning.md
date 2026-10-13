@@ -31,7 +31,7 @@ Useful *candidate* comparisons include shares per reached account, saves per rea
 6. Preserve diversity; performance learning should deepen the voice, not flatten it.
 
 ## Gold Standards admission protocol
-**Do not edit standards/gold-standards.md unless the owner explicitly asks to add owner-confirmed published examples.**
+**Do not edit standards/gold-standards.md unless the owner explicitly requests a published example or enables an owner-configured automatic promotion rule in the console.** Preserve exact published text and observed metrics; never promote drafts or infer missing data.
 
 For each owner-authorized inclusion, record:
 - Exact published text, with original line breaks.
