@@ -1,6 +1,6 @@
 # RAISE HELL console: setup
 
-The console is one web page (`index.html` plus `console/`) served by GitHub Pages. It connects three things you already have:
+The deployed console is a **single self-contained `index.html`** served by GitHub Pages. Styles, JavaScript, the MP4 muxer, and fonts are bundled into that file to keep the repository and deployment simple. The original modular files remain in the source ZIP for future editing. It connects three things you already have:
 
 - **n8n**: the existing `Raise Hell - Generation` workflow writes with Claude. The console only calls its webhook (`/webhook/raise-hell/generate`).
 - **Zernio**: the Instagram account, the music catalog, uploads, scheduling, publishing and analytics.
@@ -165,7 +165,7 @@ Failure-aware Stories with the page closed would need a background job. It is no
 
 ### The seven-day media limit
 
-Zernio keeps an uploaded file in temporary storage for 7 days, and the copy to permanent storage happens when the post publishes. A post scheduled to publish after its upload expired would fail. So the console never schedules a Reel, or its Story, more than **6 days** after uploading its media (one day of margin, set by `mediaScheduleDays` in `console/config.js`):
+Zernio keeps an uploaded file in temporary storage for 7 days, and the copy to permanent storage happens when the post publishes. A post scheduled to publish after its upload expired would fail. So the console never schedules a Reel, or its Story, more than **6 days** after uploading its media (one day of margin, set by `mediaScheduleDays` in the inline `window.RAISEHELL_CONFIG` block within `index.html`):
 
 - **At a time** refuses later times and says the latest allowed one.
 - **Schedule** (queue mode) checks Zernio's next free posting time first and stops when it is beyond the limit. If Zernio still places a post later, the console deletes it again and says so.
@@ -205,9 +205,12 @@ Nothing here has run against your live accounts yet, so none of it should be tre
 
 ## Files
 
+The following `console/` paths describe the original modular source package, **not additional files required on GitHub Pages**. The deployed `index.html` already contains their contents.
+
+
 | File | What it does |
 |---|---|
-| `index.html` | The page. |
+| `index.html` | The complete, deployed console, including inlined CSS, scripts, fonts and rendering code. |
 | `console/app.js` | The five sections. |
 | `console/services.js` | Calls to n8n, Zernio and GitHub. |
 | `console/video.js` | Makes the Reel MP4 and the Story JPG in the browser, and checks each MP4 against Instagram's specification. |
