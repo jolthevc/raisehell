@@ -8,7 +8,7 @@ RAISE HELL publishes compact, exceptionally written, emotionally potent messages
 The writing is raw, sometimes profane, irreverent, confident, masculine-leaning, and emotionally intelligent. It celebrates ambition, courage, love, self-respect, humor, and being alive. It is **not** a red-pill, grievance, misogyny, contempt, or black-pill account. The reader should leave feeling more alive and more capable, not bitter.
 
 ## What this repository is
-The editorial source of truth for AI-assisted ideation, writing, editing, calibration, and future publishing. **This is not currently a website, quote generator, or auto-posting bot.** It is the literary operating system that future tools must obey.
+The editorial source of truth for RAISE HELL, plus a lightweight [editorial console](index.html) for GitHub Pages. The console calls the existing n8n Generation webhook and Zernio; it does not require a separate application server. See [SETUP.md](SETUP.md) for activation and limitations.
 
 ## Start here, in order
 1. [AGENTS.md](AGENTS.md) for AI operating instructions, required reading, requests, outputs, and source precedence.
@@ -27,7 +27,7 @@ The editorial source of truth for AI-assisted ideation, writing, editing, calibr
 - A post can be one line or several short paragraphs. Form follows the thought.
 - No weak or derivative work gets published just because a quota exists.
 - Publication requires human approval. Drafts are not approved pieces; examples in manuals are not proven hits.
-- [Gold Standards](standards/gold-standards.md) is deliberately **empty** until the owner supplies genuine breakout hits and their context. **Never auto-populate it.**
+- [Gold Standards](standards/gold-standards.md) starts empty. Only actual published posts may be added by the owner, including through an expressly enabled, owner-configured performance threshold in the console. No synthetic winners.
 
 ## Brand snapshot
 | Dimension | Direction |
@@ -49,4 +49,4 @@ The editorial source of truth for AI-assisted ideation, writing, editing, calibr
 - **Learn:** "Review these owner-confirmed performance results and suggest evidence-based lessons. Do not edit Gold Standards unless explicitly asked."
 
 ## Status
-**v1.0: Editorial constitution and operating workflow.** This repo contains examples for illustration, not performance-proven copy. Content outcomes are unknown until posted and measured. Rendering, scheduling, analytics ingestion, and an HTML console are future layers, not prerequisites.
+**v1.1: Literary operating system and lightweight HTML console.** The root `index.html` is the deployable one-file console. See [SETUP.md](SETUP.md). The console is not a background automation service; integrations require live account verification.
