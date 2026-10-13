@@ -63,7 +63,7 @@ Unless the requester specifies otherwise:
 10. Has the owner approved it?
 
 ## Gold Standards safeguard
-standards/gold-standards.md is intentionally blank of examples. It may contain a status note, but **no model may add sample posts or designate its own writing as gold**, regardless of quality or hypothetical scores. Only populate it when the owner expressly provides or confirms real-world breakout posts and asks to archive them. Record source, original wording, date, performance context, and what might explain the result. A viral post is an editorial signal, not automatic proof of literary quality.
+standards/gold-standards.md is intentionally blank of examples. It may contain a status note, but **no model may add sample posts or designate its own writing as gold**, regardless of quality or hypothetical scores. Only populate it from actual published, performance-observed posts when the owner explicitly clicks to archive a post, or switches on an owner-configured automatic promotion rule in the console (a standing authorization). No model may invent or self-designate Gold Standards. Record source, original wording, date, performance context, and what might explain the result. A viral post is an editorial signal, not automatic proof of literary quality.
 
 ## Changes to this system
 Do not rewrite foundational doctrine, move historical content, alter the brand name, or publish automatically without instruction. When proposing rule changes, explain the tradeoffs and preserve existing confirmed decisions. If the request is ambiguous but creative work can proceed safely, choose a reasonable editorial default and identify the assumption.
