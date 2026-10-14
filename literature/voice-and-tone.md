@@ -71,8 +71,10 @@ These examples are more important as calibrators than schematic "Too generic / C
 **Heart.** Care through a particular detail, without a moral:
 > Your oldest friends can make you laugh with two words nobody else would understand. That's a language you built without noticing.
 
-**Perspective.** A quiet observation that stays with the reader:
-> Some of the best hours of your life have no photographs. Nobody stopped to take one.
+**Perspective.** An unexpected reversal about freedom:
+> At twelve, you couldn't wait to grow up so nobody could tell you what to do.
+>
+> Funny how you ended up being the strictest person in the house.
 
 **Important:** Some examples use similar forms or second-person voice. That is fine. The error is **reusing the same predictable insight**, not sharing an editorial signature. A new batch can include multiple excellent one-liners or multiple paragraphs when the thoughts earn those forms. No obligatory formal quota. Never reproduce these reference posts as fresh drafts.
 
