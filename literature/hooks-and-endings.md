@@ -1,67 +1,43 @@
-# Hooks and Endings | Earn Attention, Then Repay It
+# Hooks and Endings | Start a Fire, Then Send Them Out the Door
 
-A standalone social post has no introduction. Its opening must meet the reader in motion. Its ending must make the journey worth taking. Neither should feel like a manipulation tactic.
+## The job of a post
+A RAISE HELL post is not finished when the reader thinks "true." It is finished when the reader **feels more alive and ready to do something**.
 
-## The opening's real job
-Make the reader immediately encounter a compelling situation, tension, surprise, or familiar truth. Avoid rhetorical noise such as "Read this twice," "You need to hear this," or "Nobody talks about..."
+## Openings worth stopping for
+- **Audacious question:** provoke hope, doubt or urgency without empty clickbait.
+- **Direct challenge:** confront a real hesitation or unnecessary wait.
+- **Confident proclamation:** declare that life may be far bigger than currently imagined.
+- **Unapologetic permission:** own the ambition, joy, love or adventure you want.
+- **A charged setback:** start in pain or disappointment, then build toward a future.
+- **A fiercely warm assertion:** insist there is more life left to live.
 
-### Six viable openings
-1. **Uncomfortable recognition:** name the reader's plausible private behavior.
-2. **Concrete scene:** begin inside a moment, not inside the moral.
-3. **Arresting observation:** a compact assertion that makes a reader reconsider.
-4. **Apparent contradiction:** put two true-seeming but incompatible ideas together.
-5. **Humorous truth:** be funny enough to disarm and accurate enough to stay.
-6. **Unapologetic command:** use when the action is clear, deserved, and genuinely helpful.
+No fake "they," manufactured scarcity, false claims, or manipulative commands to share. An opening should have a thought behind the voltage.
 
-## Hooks that weaken the brand
-- Generic universal claim: "Life is all about choices."
-- Unverified mind reading: "I know exactly why you're unhappy."
-- Borrowed viral shell: "Nobody is ready for this conversation."
-- Fake suspense: "There's one thing they don't want you to know."
-- Outrage bait and an invented enemy.
-- An empty declaration that the next sentence will be profound.
+## The middle must build
+Usually one compact paragraph. Escalate personally: draw out the possible yes, the room yet to enter, the risk worth taking, the night worth living, the work worth doing. Make it feel vivid and *about the reader*, not an essay about how people think.
 
-## Pressure through the middle
-Every line should either deepen the human observation, shift the lens, sharpen the stakes, create humor, or earn the ending. Explanatory scaffolding is expendable. Avoid repeating the first sentence in louder language.
+A useful question: **Does every sentence make the reader feel more?** If the middle is just analysis, cut or recast it.
 
-## The landing
-There are multiple valid endings:
-- **Recognition:** a line that names what was really happening.
-- **Release:** a permission, exhale, or dismissal of an unnecessary fear.
-- **Invitation:** a plausible action the reader might take.
-- **Reversal:** the opening assumption is seen differently.
-- **Quiet ache:** a detail whose meaning continues after reading.
-- **Comic twist:** a laugh that still fits the truth.
-- **Open ending:** deliberate restraint, allowing the reader to finish the thought.
+## Five powerful landings
+1. **The direct launch:** an earned, specific demand to take action.
+2. **The bold vote of confidence:** speak belief into a future the reader hasn't dared imagine.
+3. **The resilient comeback:** invite them to stand up and take another swing.
+4. **The joyful invitation:** make life seem irresistible, not merely manageable.
+5. **The courageous dare:** help them act with their heart pounding.
 
-## How not to end
-Avoid ending everything with "So get up," "Choose yourself," "Prove them wrong," "Do it anyway," "You only live once," or "Read that again." If the last line merely restates a generic maxim, test ending one sentence earlier.
+A strong last paragraph can contain several quick imperatives, a declaration and a callback. The energy should **rise into the close**, not trickle away after the insight.
 
-## Three editing passes
-**First-sentence pass:** Would the opening earn attention as plain text, without art or context?
+## The flat-ending veto
+- A gorgeous observation with no development or demand.
+- A clever paradox left hanging merely to seem literary.
+- A soft "You deserve better" after an intense buildup.
+- A generic "Believe in yourself" or "Seize the day" pasted at the end.
+- A repetitive signoff formula that every post shares.
 
-**Last-sentence pass:** Is the ending earned, precise, and emotionally different from the setup? Can it be cut without loss?
+**Repair:** Ask what you're genuinely trying to awaken in the reader. Write an ending that makes them *feel capable of that thing now*. Make the emotion stronger, not just the punctuation louder.
 
-**Spoken-aloud pass:** Does the post sound like a real person could actually say it? Does the final line land rather than announce itself?
+## Example-led calibration
+Read the entire seven [owner-approved Editorial Gold pieces](../standards/editorial-gold.md). Especially study their **last paragraphs** and how those paragraphs elevate the complete piece. Learn the *function*, not the exact words. Do not lift a Gold ending onto a new setup.
 
-## Contrast examples
-These are **craft illustrations, not approved posts**.
-
-Flat:
-"Don't waste your time. Life is short. Make every day count."
-
-More situated:
-"You spent an hour deciding whether people would think your idea was stupid.
-
-You could have spent that hour making the first version."
-
-Flat:
-"Appreciate your parents before they're gone."
-
-More situated:
-"Ask your mother what she wanted to be before anyone called her Mom."
-
-Both improved examples may need revision. The point is the move from a slogan into an identifiable human moment.
-
-## A subtle warning
-A strong opening is not permission to betray the reader. Never hook with a false claim and then pivot to generic motivation. We want earned attention, not just momentary interruption.
+## Structure and restraint
+Two or three compact paragraphs is the sweet spot. Similar cadence across a publication is fine. No template quotas, but avoid repeating exact rhetorical hooks and generic closing phrases. The closing can be forceful, funny, loving or defiant. **Forceful doesn't mean screaming.**
