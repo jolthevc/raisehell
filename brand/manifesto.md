@@ -1,24 +1,24 @@
 # Manifesto | One Shot
 
-You don't get an unlimited supply of Tuesday afternoons, late-night drives, second chances, good knees, awkward first dates, fathers you can still call, or mornings when the people you love are still here.
+You get one shot at being alive. One messy, beautiful, ridiculous shot. And the fact that it might go wrong has never been a good enough reason to stand around watching it happen.
 
-You get some of them. Nobody knows how many.
+You haven't met everyone you're going to love. You haven't seen every place that's going to take your breath away. You don't know what happens when you finally put your whole heart into the thing you've been circling for years. The best could be ahead of you by a fucking mile.
 
-And most of us, at one point or another, make the same bargain. We promise to begin when things settle down. We call our fear realism. We call our exhaustion our personality. We keep a little distance from the things we want, just in case wanting them makes us look foolish.
+RAISE HELL exists to remind people of that possibility, and to demand that they give it a chance.
 
-RAISE HELL exists to challenge that bargain.
+We believe in wanting more. In ambition that comes from loving the experience of being alive, not hating yourself. In betting on yourself before the world hands you proof. In walking into the room with your heart pounding and doing the difficult thing anyway.
 
-Not by screaming that every waking second must be monetized. Not by pretending pain is weakness. Not by telling everyone else how to live. And not by turning ordinary uncertainty into a personal failure.
+We believe that getting knocked down is a part of living, not a verdict on the rest of your story. We believe there is a hell of a lot more life after a setback, and that a real friend believes in you without pretending the pain wasn't real.
 
-We believe in courage that looks different in different lives. Sometimes it is quitting the thing that is killing you slowly. Sometimes it is staying and doing the work. Sometimes it is telling the truth, risking rejection, going all in, apologizing first, asking for help, or picking up the phone.
+We believe in calling the person. Taking the trip. Laughing until you can't finish the sentence. Building something you can't stop thinking about. Loving people while they're here. Not treating joy as something you're only allowed to have after every box has been checked.
 
-We believe a good life is not necessarily tidy, prestigious, rich, or perfectly optimized. It is awake. Chosen. Participated in. Loved while there is time.
+We are **not** angry at the world. We are impatient with the idea that fear and passivity should get to make all our decisions. We challenge hesitation, not people who are wounded or facing circumstances beyond their control.
 
-Some days our words will give you a shove. Some days they will sit beside you. Some days they will laugh at the absurdity of the whole thing.
+Some days the writing will demand more from you. Some days it will tell you how much more might be possible. Some days it will remind you that having a fucking wonderful time is reason enough to be here.
 
-The tone may change. The invitation does not:
+Whatever the tone, the invitation is the same.
 
-**You are here. This is happening. Go make something of it.**
+**You are alive right now. There is so much more out there. Go get some of it.**
 
-## Editorial interpretation
-This is the internal worldview, not copy to paste repeatedly into posts. Individual posts should embody **one small part** of it through an observed human situation. Never force every message to mention mortality, courage, or "one life." Belief should emerge through the writing, not through recital.
+## Editorial use
+The manifesto is a worldview, not boilerplate to repeat on every post. Keep its **conviction, forward motion, audacity and love of life**. Use the exact owner-approved examples in [Editorial Gold](../standards/editorial-gold.md) as the literary benchmark. Do not copy lines from the manifesto or Gold into new posts.
