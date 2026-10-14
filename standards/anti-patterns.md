@@ -1,98 +1,72 @@
-# Anti-Patterns | The Slop Firewall
+# Anti-Patterns | Keep the Fire, Lose the Slop
 
-This is an editorial rejection manual. A post can be grammatically excellent, emotionally intense, and still be awful RAISE HELL writing.
+This document protects the owner-approved RAISE HELL voice, not the sensibilities of a literary critic. The positive target is the seven exact pieces in [Editorial Gold](editorial-gold.md). Those pieces are **direct, frequently profane, emotionally escalating and unapologetically motivating**.
 
-## Hard vetoes
-These fail regardless of numeric quality score.
-1. **Contempt dressed as empowerment:** misogyny, gender warfare, ridicule of vulnerable groups, superiority theater, black-pill despair, or resentment as identity.
-2. **Invented factual certainty:** false statistical claims, fabricated personal experience, pseudoscientific explanations, unsupported universal statements presented as fact.
-3. **Unoriginal copying:** recognizably borrowed wording from another creator without authorization or attribution where appropriate.
-4. **Needless personal harm:** humiliation of the reader for trauma, disability, grief, poverty, mental-health challenges, or barriers they did not choose.
-5. **Engagement deceit:** "Share this or something bad happens," artificial scarcity, fake testimonials, false earned authority.
+## Nonnegotiable hard vetoes
+1. **Contempt as motivation:** misogyny, hate, gender-war rhetoric, punching down, weak-men insults, superiority theater or making vulnerable people into the enemy.
+2. **False claims:** invented facts, statistics, guarantees of success, fake testimonials or fabricated personal experiences.
+3. **Copying:** borrowed recognizable phrasing from outside creators, or exact/close paraphrases of the owner's existing Gold posts presented as new drafts.
+4. **Needless harm:** shaming people for grief, trauma, poverty, illness, disability or circumstances outside their control.
+5. **Manipulative engagement:** false scarcity, supernatural threats, "share this or else," phony authority.
 
-## Quality failure patterns
-### 1. Motivational wallpaper
-Looks inspirational but communicates no situation or thought.
-Weak: "Believe in yourself. Greatness awaits."
-Repair: locate a moment when believing in oneself would cost something.
+## Creative failure patterns
 
-### 2. Vocabulary as substance
-"Legacy. Greatness. Power. Discipline." Four abstract words do not equal a message.
-Repair: name a behavior with stakes.
+### 1. The flat landing
+Strong opening, thoughtful middle, then it simply ends. Reader thinks "interesting" rather than "let's fucking go."
+**Repair:** Write a final beat with forward motion. Give an earned command, dare, belief statement or irresistible invitation that raises the energy.
 
-### 3. Rage cosplay
-Aggression is offered as proof of courage.
-Weak: "The world is full of losers. Crush them."
-Repair: focus on action without needing an enemy.
+### 2. Therapy drift
+Gentle psychological observation, careful validation, soft reassurance. Well written, wrong center of gravity.
+**Repair:** Return to the reader's available agency, possibility, courage, hunger, joy or love. Build rather than diagnose.
 
-### 4. Profanity as amplifier
-Weak underlying idea, louder "fucking" added for effect.
-Repair: remove all swear words and test whether the thought survives.
+### 3. Scolding without promotion
+"You're lazy, you're a loser, you wasted your life." The reader feels accused, not mobilized.
+**Repair:** Challenge the hesitation but speak as someone **on their side**. Belief should be more audible than judgment.
 
-### 5. The universal diagnosis
-Claims to know why every reader is unhappy, single, broke, lazy, weak, or afraid.
-Repair: define an actual human pattern and its limits.
+### 4. Fake intensity
+Caps-lock yelling, stacked abstractions, swearing inserted with no emotional payoff.
+**Repair:** Real stakes, natural speech, escalating conviction and a sentence worth swearing in. **Do not overcorrect by removing natural, frequent profanity.**
 
-### 6. The compulsory last-line lesson
-A good moment ruined by "So always live each day to the fullest."
-Repair: end on the image, contradiction, or realization.
+### 5. The polished aphorism
+A nice, clever one-liner that remains an intellectual observation.
+**Repair:** Consider whether the reader needs a stronger, more personal development and launch. Exception: an exceptional very short line with a genuine emotional surge.
 
-### 7. The generated three-beat cadence
-Short sentence. Short sentence. Profound-sounding sentence. Repeated on every post.
-Repair: use real conversational syntax and varied rhythms.
+### 6. Overengineering originality
+Rejecting "dream big," "try again," "go for it," or "enjoy life" because the themes are familiar, then inventing a complicated metaphor that nobody feels.
+**Repair:** An old human truth delivered with extraordinary conviction beats a novel truth delivered flatly.
 
-### 8. Fake poetic depth
-Abstract metaphors that cannot be translated into a clear claim.
-Repair: explain privately what the post means, then state it simply.
+### 7. The perfunctory CTA
+"Do it anyway," "take the shot," or "get moving" inserted at the end of any random insight.
+**Repair:** Earn the ending by raising personal stakes through the middle. Invent different ending language and emotional release. A powerful command is desirable **when earned**.
 
-### 9. Manufactured outrage
-A phantom "they" exists only so the reader can feel superior.
-Repair: replace imaginary opponents with an actual choice or situation.
+### 8. Artificial structure policing
+Forcing ten different paragraph counts or archetypes to avoid appearing templated.
+**Repair:** A recognizable 2-3 paragraph house rhythm is good. Judge whether the **insights and builds** are independently strong, not whether every post uses a unique shape.
 
-### 10. Grief bait
-Uses dead parents, lost time, or illness to trigger guilt without care or clarity.
-Repair: evoke ordinary love accurately and leave the reader with warmth or agency.
+### 9. Gold imitation
+Rewriting "Who the fuck decided...", "What if it works", "you're not finished" with similar sentences and the same underlying turn.
+**Repair:** Keep the **energy**, invent new situations, moves and expressions. Approved reference texts are not candidates for recycling.
 
-### 11. Hardness monoculture
-Everything must be a challenge, never a compliment, joke, confession, or moment of love.
-Repair: change the emotional register. Masculine confidence can hold tenderness.
+### 10. Exhausting repetition
+Every post opens with a rhetorical question, lists three things, and ends with "Get your ass out there." Or every post swears in exactly the same spot.
+**Repair:** Maintain the core pep-talk voltage, vary ideas, cadence, emotional destination, profanity placement and final language.
 
-### 12. Cute cleverness
-A pun, twist, or paradox substitutes for an authentic human insight.
-Repair: trace the line back to a lived observation.
+### 11. Manufactured foes
+Anonymous doubters, haters, wolves, sheep, fake gatekeepers, people "holding you back" merely so the reader can feel superior.
+**Repair:** Focus on a real chance, decision, obstacle, love or experience.
 
-### 13. No risk
-The copy is so safely agreeable that it doesn't distinguish this brand from any generic page.
-Repair: identify the exact truth we are willing to say.
+### 12. Unrealistic certainty
+"You WILL succeed," "life always works out," "the universe owes you." These sound powerful but aren't honest.
+**Repair:** Conviction about the *possibility* of amazing outcomes and the reader's ability to take meaningful action. The future is open, not guaranteed.
 
-### 14. False transcendence
-Everything must be life-changing, existential, or profound.
-Repair: allow a smaller, funnier, lighter observation to be enough.
+### 13. Endless grind
+Life reduced to winning, work and discipline; no wonder, fun, generosity, leisure, love or pleasure.
+**Repair:** Remember [Go have a hell of a time](editorial-gold.md). Enjoying this life is part of the mission.
 
-### 15. Therapy by default
-Each ordinary scene is treated as evidence of a hidden emotional wound, then resolved through validation or gentle instruction. The writer sounds like a compassionate counselor rather than an alert, unpredictable human being.
-Repair: stop diagnosing the reader. Find a more surprising consequence, let the observation stand, try humor, confrontation, or an entirely different premise. Tenderness remains welcome when actually earned.
+## Set-level veto
+A whole batch can be competently written yet unpublishable if most pieces are therapy-shaped, flat-ending, derivative, guilt-driven, harsh without warmth, or motivated solely by identical generic commands. Similar high-voltage style and 2-3 paragraphs are **welcome**. Repeated weak substance is not.
 
-### 16. Conventional insight in expensive clothes
-The wording is lovely but the whole thought is familiar: start before you're ready, love yourself, dance like nobody is watching, call your friends, do not fear failure.
-Repair: take off the elegant phrasing. If the naked claim is generic, return to ideation. Do not mistake verbal craft for originality.
+## The gold test
+Put the draft alongside the seven [owner-approved Editorial Gold](editorial-gold.md) posts. Does it belong there emotionally? Does it **make somebody feel like moving**? Does the last paragraph launch them forward? Is it challenging without humiliating?
 
-### 17. The interchangeable batch
-A batch contains different topics and labels but the same voice, structure, emotional temperature, and final instruction. Every piece could be reordered without the reader noticing a new point of view.
-Repair: compare candidates together and reject the recycling of scene -> psychological revelation -> instruction as an automatic *thinking process*. A recurring paragraph count alone is not a failure if the insights are extraordinary. Re-conceive the weakest **premises**, not merely the line breaks.
-
-### 18. Unnecessary moral of the story
-A vivid or funny image is followed by a last sentence that explains why the reader should care, turning literature into an assignment.
-Repair: see whether the post ends more powerfully a sentence sooner. Let the reader make the final inference.
-
-## Near-miss protocol
-When a draft feels "fine," do not merely tweak adjectives. Diagnose one of: weak premise, overfamiliar thought, false stakes, poor angle, generic cadence, weak final line, insufficient human detail, or misplaced tone. Return to ideation if the idea itself is dead.
-
-## Batch-level rejection rule
-Pass each post through the normal hard vetoes and quality rubric, **then judge the set**. A stack of individually decent pieces can still fail because it is predictable as a whole. If too many pieces are safe, overly reassuring, conceptually interchangeable or advice-led, hold the set for another ideation and editing pass. **The problem is derivative thinking, not merely similarities in form.** Never fill the requested count with low-voltage copy simply because the writing is grammatical.
-
-## Example-led calibration without imitation
-[Editorial Gold](editorial-gold.md) gives the desired standard of voice and literary impact. It is permitted to use a similar level of direct address, emotional temperature, brevity and even occasional familiar structures. It is **not** permitted to recycle the benchmark's distinctive premise, joke, metaphor, ending or phrase. A good imitation of a Gold example is still a poor new post.
-
-## The originality test
-Can you identify the **fresh actual observation** in one sentence? If not, it is likely a slogan in a new outfit. Different wording alone is not differentiation.
+If not, rebuild the premise or emotional arc. Do not hide behind a numerical score or a beautifully phrased observation.
