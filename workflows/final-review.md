@@ -1,46 +1,42 @@
 # Workflow | Final Review and Approval
 
-No post is approved merely because a model scored it highly.
+## One-sentence standard
+A successful RAISE HELL post makes someone feel like they're about to walk out and play the game of their fucking life. **Not scolded. Ignited.**
 
-## Positive calibration
-Read [Editorial Gold](../standards/editorial-gold.md) as the reference for creative *quality*. Ask whether the new piece is as striking, honest, human and alive as the relevant benchmark without sharing its distinctive premise or wording. These examples are untested and are not permission to publish. Actual breakout observations live separately in [Performance Gold Standards](../standards/gold-standards.md).
+[Editorial Gold](../standards/editorial-gold.md) contains the exact seven owner-approved writing benchmarks. Its texts and paragraph breaks are canonical, not templates to paraphrase or automatically republish.
 
 ## Preflight
-1. **Truth:** Is the central observation credible and not a disguised cliché?
-2. **Humanity:** Does it speak to a person, not an imagined inferior?
-3. **Emotion:** What exactly does it make the reader feel?
-4. **Voice:** Does it sound like RAISE HELL without counterfeit bravado?
-5. **Craft:** Is the opening purposeful, middle economical, and ending earned?
-6. **Originality:** Is there a genuine fresh observation or specific expression?
-7. **Care:** No hard vetoes from standards/anti-patterns.md.
-8. **Readability:** Does plain text work? Will layout remain legible?
-9. **Set fit:** Does it repeat a recent *idea* or produce another safe, predictable explanation? Some similarity of voice, rhythm or form is fine.
-10. **Human approval:** Has the owner expressly selected it?
+1. **Opening:** Does it immediately seize attention with conviction, possibility, risk or feeling?
+2. **Build:** Does the middle actually raise stakes, hope, courage, urgency, love or joy?
+3. **Ending:** Does it **finish on the strongest beat**, with a genuine forward-moving demand, belief or invitation?
+4. **Brand:** Does it sound like a fierce ally rather than a therapist, philosopher or furious drill sergeant?
+5. **Emotional destination:** Is the reader more alive, confident, hungry or ready to go?
+6. **Profanity:** Where it appears, does the language add musical punch and personality? Has it been sanitized into flatness?
+7. **Truth:** Are the possibilities credible, without fabricating guarantees or shaming hardship?
+8. **Craft:** Is the copy sharp, spoken, compelling and readable on the actual canvas?
+9. **Originality:** Is it a new post, not a close remake of Gold or recent drafts?
+10. **Approval:** Has an owner or authorized human approved publication?
 
 ## Review record
 For each candidate, record:
-- Working title / slug
-- Copy exactly as submitted
-- Editorial verdict: REJECT, REVISE, CANDIDATE, APPROVED, PUBLISHED
-- Six quality scores and one-sentence rationale for each, if scoring is requested
-- Any hard-veto flags
-- Key revision(s)
-- Emotional register, territory, and archetype
-- Duplicate check against known approved/published copy
-- Approval identity/date for approved work
-- Publication URL/date if published
+- Working title, exact submitted text and line breaks.
+- Editorial status: REJECT, REVISE, CANDIDATE, APPROVED, PUBLISHED.
+- Emotional direction, territory, archetype.
+- The six quality scores if requested.
+- Reasons, relevant hard vetoes and changes needed.
+- Similarity check against published posts and Editorial Gold.
+- Human approval identity and date when granted.
+- Publication link, date and performance data only after actual publication.
 
-These fields can exist as Markdown front matter or as structured metadata in a future content system. The post body must stay clean.
+## Decision
+**GO:** Powerful, human, original, forward-moving, readable, and explicitly approved for publication.
 
-## Human approval protocol
-Only the user or authorized editor may advance CANDIDATE -> APPROVED and approve material changes. No autonomous agent may silently publish or backfill approval based on a score.
+**REVISE:** Genuine emotional kernel, but flat finish, weak energy or generic delivery.
 
-Once approved, copy should be treated as canonical for rendering. If line breaks are altered to improve visual composition, retain original text and compare before publishing.
+**NO-GO:** Therapy-shaped filler, polished aphorism with no ignition, counterfeit bravado, harmful shame, derivative Gold paraphrase, unapproved posting.
 
-## Go / no-go
-**GO:** sharp, original, humane, readable, approved.
-**REVISE:** good premise, weak execution.
-**NO-GO:** derivative, hollow, manipulative, contemptuous, or unreadable.
+## Approval and the two Golds
+- Editorial Gold: seven **owner-approved voice benchmarks**, not necessarily approved to publish and not observed winners.
+- Performance Gold: [standards/gold-standards.md](../standards/gold-standards.md), actual published pieces with real evidence and owner promotion.
 
-## Gold is not approval
-An approved post is not automatically a *Performance Gold* Standard. Publication is not automatically a breakout. Performance Gold requires actual performance evidence and owner authorization; see workflows/performance-learning.md. **Editorial Gold** contains untested voice benchmarks selected to calibrate writing, not to serve as performance claims.
+The model may not promote or auto-post either category on its own. If the user asks for a literary recalibration, never use fictitious engagement as evidence.
