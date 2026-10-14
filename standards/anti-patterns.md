@@ -79,7 +79,7 @@ Repair: take off the elegant phrasing. If the naked claim is generic, return to 
 
 ### 17. The interchangeable batch
 A batch contains different topics and labels but the same voice, structure, emotional temperature, and final instruction. Every piece could be reordered without the reader noticing a new point of view.
-Repair: compare all candidates together. Specifically reject a mixed ten-post batch built entirely from three-paragraph scene -> revelation -> instruction mini-essays. Re-conceive the weakest ideas in entirely different forms; do not simply shuffle paragraph breaks.
+Repair: compare candidates together and reject the recycling of scene -> psychological revelation -> instruction as an automatic *thinking process*. A recurring paragraph count alone is not a failure if the insights are extraordinary. Re-conceive the weakest **premises**, not merely the line breaks.
 
 ### 18. Unnecessary moral of the story
 A vivid or funny image is followed by a last sentence that explains why the reader should care, turning literature into an assignment.
@@ -89,7 +89,10 @@ Repair: see whether the post ends more powerfully a sentence sooner. Let the rea
 When a draft feels "fine," do not merely tweak adjectives. Diagnose one of: weak premise, overfamiliar thought, false stakes, poor angle, generic cadence, weak final line, insufficient human detail, or misplaced tone. Return to ideation if the idea itself is dead.
 
 ## Batch-level rejection rule
-Pass each post through the normal hard vetoes and quality rubric, **then judge the set**. A stack of individually decent pieces can still fail because it is predictable as a whole. If too many pieces are safe, soft, same-shaped, or advice-led, hold the entire set for another ideation and editing pass. Never fill the requested count with low-voltage copy simply because the writing is grammatical.
+Pass each post through the normal hard vetoes and quality rubric, **then judge the set**. A stack of individually decent pieces can still fail because it is predictable as a whole. If too many pieces are safe, overly reassuring, conceptually interchangeable or advice-led, hold the set for another ideation and editing pass. **The problem is derivative thinking, not merely similarities in form.** Never fill the requested count with low-voltage copy simply because the writing is grammatical.
+
+## Example-led calibration without imitation
+[Editorial Gold](editorial-gold.md) gives the desired standard of voice and literary impact. It is permitted to use a similar level of direct address, emotional temperature, brevity and even occasional familiar structures. It is **not** permitted to recycle the benchmark's distinctive premise, joke, metaphor, ending or phrase. A good imitation of a Gold example is still a poor new post.
 
 ## The originality test
 Can you identify the **fresh actual observation** in one sentence? If not, it is likely a slogan in a new outfit. Different wording alone is not differentiation.
