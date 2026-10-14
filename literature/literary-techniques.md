@@ -1,78 +1,57 @@
-# Literary Techniques | The Craft Should Be Invisible
+# Literary Techniques | Make the Words Hit Harder
 
-The mission is to write something a person feels in their chest, not to display devices. The techniques below are instruments. Select only those that serve the observation.
+This is a craft toolset, not a reason to turn RAISE HELL into subdued philosophical literature. **The mission is conviction and motion**. For the quality target, study the seven exact [owner-approved Editorial Gold](../standards/editorial-gold.md) pieces.
 
-## 1. Psychological specificity
-Replace broad virtues with the awkward behaviors that reveal them.
-- Generic: "Don't let fear stop you."
-- More particular: "You have an entire speech prepared for why you never tried. You don't need to deliver it."
-Why: the performance of self-protection is recognizable.
-Failure: inventing experiences so oddly specific they feel implausible or voyeuristic.
+## 1. High-voltage opening
+Begin with a daring question, declaration, possibility, challenge or surprise. Interrupt the reader's present state, not with clickbait but with something that actually matters.
 
-## 2. Narrative compression
-Fit a little story into a few sentences. A character, a want, an obstacle, and a turn can exist without a formal plot.
-- Illustrative: "He stopped inviting you because you always said maybe. That's what maybe becomes eventually."
-Good compression eliminates explanation, not humanity.
+## 2. Emotional escalation
+A good middle **builds**. Add possibility, consequence, vivid future, unspoken longing, embodied nerves or cumulative momentum. Avoid explaining the psychology of the first sentence until the post dies.
 
-## 3. Reversal
-Present a common interpretation, then reveal the hidden cost or alternative.
-- Illustrative: "You call it keeping your options open. But every open door has become a room you never enter."
-Do not default to "It's not X. It's Y." That recognizable AI construction becomes tedious fast. A reversal should be earned, not merely a syntax trick.
+## 3. Repetition that gains speed
+A repeated opening clause or string of short declarations can be exceptional when each instance raises the stakes. Deliberate rhythm is welcome. Avoid robotic repetition just to mimic Gold.
 
-## 4. Concrete abstraction
-Pair a large idea with an ordinary physical or social detail.
-- Time: a mother wearing a coat you remember from childhood.
-- Self-consciousness: replaying a ten-second conversation for three days.
-- Friendship: knowing which friend needs silence rather than advice.
-Use details that illuminate the point, not random sensory decorations.
+## 4. Permission with teeth
+"You get to want a huge life" is a start. The piece must make that desire feel urgent, legitimate and connected to action, without promising results.
 
-## 5. Juxtaposition
-Place contradictory truths side by side without resolving them into a maxim.
-- You may want more and still love what you have.
-- You may be heartbroken and glad you cared.
-Sometimes the coexistence itself is the landing.
+## 5. Direct second person
+"You" is the usual address. The writer speaks to a reader who can move, decide, love, risk, try again or celebrate. The reader is not a generic case study.
 
-## 6. Rhythm and breath
-Read copy aloud. Small blunt phrases deliver force; flowing clauses can create tenderness. Vary sentence lengths inside and across posts. A series of three identically clipped proclamations sounds generic. A long sentence can create a breathless spiral that a short final line snaps shut.
+## 6. The empathetic challenge
+Acknowledge fear and setbacks without a long preamble. Push the reader **through** the fear, not into shame. A trusted friend's belief is the emotional authority.
 
-## 7. Strategic withholding
-Trust the reader to make the last connection. Overexplaining kills the emotional afterimage.
-Bad: "This teaches us that we should value our loved ones."
-Better: end on the dad's unasked story. Let the reader feel the implication.
+## 7. Outrageous but credible optimism
+Describe possible wonderful outcomes with vivid confidence. Avoid destiny claims and false certainty. **Maybe it works incredibly well** is often more energizing than certainty that it must.
 
-## 8. Controlled repetition
-Repeat a word or construction only when the accumulating meaning intensifies, like a drumbeat. Do not default to "Every failure. Every rejection. Every..." across many posts. Parallelism should be an artistic choice, not a house template.
+## 8. The power of a real swear
+"Fuck," "fucking," "shit," "damn" and "hell" can be punctuation for the soul. Place profanity where it sharpens conviction, disbelief, comic warmth, courage or exhilaration. **Frequent natural profanity is part of the voice**, not a special exception.
 
-## 9. Understatement
-A quiet ending can outlast an exclamation point.
-- Loud: "MAKE EVERY SECOND COUNT!!!"
-- Quiet: "You don't get that afternoon back."
-Understatement is not always correct. The brand can also be exuberant and wild.
+## 9. Earned imperatives
+Commands can be outstanding in RAISE HELL. "Make the call," "put your name on it," "have a hell of a time" have force because the opening and middle earn them. Invent fresh endings, not a reusable CTA bank.
 
-## 10. Earned profanity
-Profanity is most effective where it sounds like actual speech: surprise, disbelief, relief, impatience, affection. It fails when every paragraph needs an adjective like "fucking" to impersonate intensity. Remove the swear word. If no idea remains, rewrite from the thought.
+## 10. Conviction beyond commands
+Not every closer must instruct. A final confident belief or declaration may propel the reader more forcefully than an order. The common criterion is **increased emotional energy**.
 
-## 11. Emotional counterpoint
-Use a different temperature than the premise suggests. A fierce opening can end tenderly. A sad subject can end with irreverent joy. A confidence piece can admit uncertainty. Contrast is often where the humanity lives.
+## 11. Sensory and situational specificity
+One or two believable glimpses of real life make a possibility tangible. Do not fabricate detailed first-person experience or overpack posts with cinematic fake moments.
 
-## 12. Ellipsis, silence, and white space
-Paragraph breaks are timing decisions, not just layout. Empty space before a final sentence can create a pause. But four one-line paragraphs in every piece become an instantly recognizable AI house style. Use what this post needs.
+## 12. Conversational variation
+Mix short blows and flowing, heartfelt sentences. Two or three compact paragraphs are the default. An exceptional one-liner can work; a well-earned fourth paragraph can work. Similarity of effective style is not an editorial sin.
 
-## 13. Defamiliarization
-Make something ordinary strange for a second: a childhood home becomes a place your parents were once young; an old voicemail becomes a record of a day both of you thought was ordinary. Avoid highfalutin imagery that draws attention to the author.
+## 13. Anticipation and release
+Build the thought toward the last paragraph, then deliver relief, action, possibility, comeback or joy. If the ending fizzles, the architecture needs work.
 
-## 14. A small, actual choice
-Sometimes the strongest ending is a believable action: send a text, walk into the room, ask the question. Do not turn every post into a CTA or a checklist. A specific choice only helps when the emotional logic earns it.
+## 14. Human warmth
+A grin, an affectionate idiom, a moment of love or absurd pleasure often makes the challenge more persuasive. This is not a perpetual war against the reader.
+
+## 15. Cut intellectual decoration
+Remove clever metaphors, psych jargon, and pretty aphorisms if they do not intensify the feeling. Don't make emotional energy subordinate to subtle literary originality.
+
+## 16. Avoid hollow pressure
+Not every reader controls every outcome. Demand courage in what can be chosen, not victory over disability, grief, poverty or trauma. Motivation and humanity are compatible.
 
 ## Revision exercise
-Given a draft, identify the one sentence with real life inside it. Delete the surrounding slogans. Rewrite around that sentence in three distinct modes: blunt, wry, and tender. Often the best version uses fewer "literary" features, not more.
+Write down the one emotional effect you're trying to create. Read the piece aloud. Mark where intensity rises and falls. Rewrite the **ending first** if it doesn't deliver. Then repair the middle so the final push feels absolutely earned. Lastly, make the opening impossible to ignore.
 
-## Misuse checklist
-- Technique does not rescue a false idea.
-- A metaphor is not an insight.
-- A three-beat list is not automatically rhythm.
-- A twist is not automatically a revelation.
-- Typography is not emotional proof.
-- A supposedly profound line is not good just because it can be printed on a black square.
-
-All examples in this document are **illustrative**, not validated, published, or Gold Standards.
+## The standard
+The completed piece should sound like a friend who believes in you like hell. A person finishes reading and feels **alive, confident, hungry and ready to go**. No manufactured applause, copied Gold rhetoric or fake guarantees.
