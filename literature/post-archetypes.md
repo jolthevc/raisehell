@@ -1,86 +1,55 @@
-# Post Archetypes | Forms, Not Fill-in-the-Blank Templates
+# Post Archetypes | Launch Pads, Not Literary Templates
 
-Archetypes are tools for thinking. Rotate and subvert them. Never require a post to match one.
+**Primary quality reference:** [Seven owner-approved Editorial Gold posts](../standards/editorial-gold.md).
+
+The typical RAISE HELL piece uses **2-3 compact paragraphs**: arresting opening, escalating emotional middle, and an ending that moves the reader into life. Familiar form is fine when the language and thought are excellent. The archetypes below identify **what the post is doing for somebody**, not mandatory formatting.
 
 ## 1. The Wake-Up Call
-Gently or forcefully exposes a pattern the reader has normalized.
-- Engine: unspoken behavior -> refusal to normalize it.
-- Risk: accusing the reader without evidence.
-- Illustrative line: "At some point the 'weird phase' becomes your routine. You get to change that."
+Confront a real hesitation, overlooked opportunity or unnecessary wait. Finish with a credible move forward. **Never** turn it into a personal insult.
 
-## 2. The Hard Truth
-Names a consequence or contradiction the reader has been avoiding.
-- Engine: uncomfortable recognition, precise logic.
-- Risk: cruel absolutes or faux toughness.
+## 2. The Radical Possibility
+Make the positive outcome as vivid and emotionally plausible as the imagined disaster. The ending should give the reader courage to actually find out.
 
-## 3. The Permission Slip
-Gives a reader room to begin, stop, leave, love, rest, or reinvent.
-- Engine: lift a false rule.
-- Risk: empty reassurance detached from reality.
+## 3. The Permission to Want More
+Name the hunger for a magnificent life without embarrassment. Then challenge the person to honor that desire through action.
 
 ## 4. The Rallying Cry
-High energy, forward momentum, muscular rhythm.
-- Engine: concrete choice and earned conviction.
-- Risk: shouty generalities.
+Earn a cadence of commands or declarations. Build to the moment when a person feels ready to go.
 
-## 5. The Quiet Gut Punch
-A small everyday detail reveals a large truth about time or love.
-- Engine: tenderness, ordinary object, consequence.
-- Risk: generic grief bait.
+## 5. The Comeback
+Begin in defeat or disappointment. Acknowledge its reality and build toward what might still be ahead.
 
-## 6. The Perspective Flip
-Moves a familiar story into a new frame.
-- Engine: surprise with credible reasoning.
-- Risk: clever reversals that are false.
+## 6. The Joyful Invitation
+Celebrate the sheer pleasure of being alive. Work and discipline aren't prerequisites for fun, love or adventure.
 
-## 7. The Wry Observation
-The reader laughs and recognizes themselves at the same time.
-- Engine: social precision and comedic timing.
-- Risk: snark without humanity.
+## 7. The Courageous Bet
+Belief before evidence, a meaningful risk and an honest uncertain outcome. Conviction isn't a promise.
 
-## 8. The Clean Boundary
-A clear statement about self-respect, reciprocity, or choice.
-- Engine: permission with a backbone.
-- Risk: flattening complicated relationships into instant exits.
+## 8. The Fierce Ally
+Say what a friend who deeply believes in you would say. Lift and challenge, but don't flatter without evidence.
 
-## 9. The Confession
-Voice admits a common weakness without false intimacy.
-- Engine: vulnerability that reduces isolation.
-- Risk: pretending a real biographical experience belongs to the brand's author.
+## 9. The Loving Push
+Turn love, loyalty, gratitude or tenderness into a reason to show up, say the thing or participate now.
 
-## 10. The Invitation
-Not a command to optimize but an invitation to participate.
-- Engine: a small vivid possibility.
-- Risk: syrupy sentiment.
+## 10. The Swagger Moment
+Irreverence, humor, nerve and the joy of looking a little foolish for something worthwhile. Not contempt or status posturing.
 
-## Break the diagnosis-and-lesson default
-An archetype names a kind of *effect*, not a three-paragraph format. Do not assume a good post follows the sequence: relatable scene, hidden psychological meaning, tidy advice. This is especially important with the Quiet Gut Punch, Perspective Flip and Permission Slip, which can otherwise become interchangeable.
+## 11. The Accountability Charge
+Make the cost of passive drift legible and insist on agency where it is actually available.
 
-Possible legitimate shapes include:
-- A single electrifying observation that refuses to explain itself.
-- A two-sentence contradiction with no advice.
-- An unapologetic declaration or challenge with earned stakes.
-- A small social comedy that stops on its funniest, truest image.
-- A quick confession in imperfect conversational language.
-- A paragraph of argument that gathers speed.
-- A tender detail left open, without a moral.
-- A brief story or longer meditation only if the progression earns its space.
+## 12. The Big-Life Perspective
+Remember that life is limited and precious. The end result should be a surge of participation, not a quiet recital of regret.
 
-The form must grow out of the material. Do not rotate forms mechanically, and do not append a concluding imperative by habit.
+## Form
+- **Default:** 2-3 short paragraphs.
+- **Open:** interrupt, provoke, declare, dare, inspire.
+- **Build:** personally raise stakes, possibility, courage, love or exhilaration.
+- **Land:** a strong challenge, emphatic belief or irresistible invitation.
+- **Exceptions:** occasional shorter or longer pieces when the material *really* earns them.
+- **Profanity:** frequent and expressive as in Gold, never a mechanical quota.
 
-## Form lengths
-- **Spark:** 1-2 sentences. Hit and leave.
-- **Short:** 3-5 lines, one movement or turn.
-- **Medium:** 2-4 short paragraphs, each adding pressure or tenderness.
-- **Occasional long:** a small narrative or layered thought that earns the words.
+## Anti-repetition
+Similarity of voice and form is an asset, but don't issue ten versions of "What if it works?" or "You're not finished." Compare **core thoughts, emotional movement and endings**, not just paragraph counts. No mandatory distribution among archetypes.
 
-No specific archetype owns any specific length. Avoid algorithmically assigning exact word counts.
-
-## Editorial anti-repetition
-Across a batch, examine openings, number of paragraphs, rhetorical questions, use of "you," and endings. A recognizable house voice and occasionally repeated length or structure are **allowed and useful**. But when the *same intellectual arc* keeps recurring, such as everyday scene -> emotional reveal -> advice, hold the batch and regenerate the weakest ideas. Do not introduce artificial structural variety for its own sake.
-
-## Quality beats variation for variation's sake
-An exceptional one-liner, a conversational riff and an observational joke may all belong to the same voice. Consult [Editorial Gold](../standards/editorial-gold.md) for the actual level and breadth of writing. Learn the weight, timing and nerve, not the original words or particular setups.
-
-## Illustrative only
-Any lines in this manual are teaching fragments, not approved posts and **not** Gold Standards.
+## Important
+The examples in Editorial Gold are **finished and owner-approved as voice benchmarks**. Do not reproduce or closely paraphrase them as new candidates. Only the owner can approve further Gold examples.
