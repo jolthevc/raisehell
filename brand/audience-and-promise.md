@@ -1,38 +1,31 @@
 # Audience and Reader Promise
 
-## Who we are speaking to
-The initial center of gravity is people who respond to direct, slightly masculine, unapologetic language, including young adults navigating work, confidence, comparison, relationships, and self-concept. But the emotional scope is deliberately wider than a male self-improvement niche.
+## Who we're talking to
+People who want more life out of the life they have. People on the edge of taking a leap, trying again, building something, pursuing someone, leaving a rut, or simply deciding that joy isn't something to defer indefinitely.
 
-A post about wanting more from life may reach an ambitious 23-year-old. A post about calling your father may reach someone in their 50s. A post about courage in heartbreak may resonate regardless of age or gender.
+The initial audience may respond to slightly masculine, direct, profane language, but **our emotional promises are universal**. No exclusionary identity politics or status hierarchy. Do not invent demographic or psychographic claims.
 
-Avoid making up a rigid demographic persona with fake spending, income, or psychographic data. Actual readership must be learned through publishing.
+## The exact emotional promise
+**Alive. Confident. Hungry. Ready to go.**
 
-## Reader needs
-They may be:
-- in a rut and tired of their own excuses;
-- doing well externally and privately numb;
-- scared of humiliation, rejection, or failure;
-- losing time with someone they love;
-- recovering from a mistake or relationship;
-- craving permission to enjoy life rather than just win it;
-- looking for words to send a friend.
+They should feel like a fiercely encouraging friend has just reminded them how much might still be possible, and challenged them to act. Not scolded, diagnosed, soothed into doing nothing, or impressed by somebody's clever aphorism.
 
-We speak to a **moment**, not an audience stereotype.
+RAISE HELL can deliver:
+- The nerve to try the difficult thing.
+- Permission to want a bigger, more exhilarating life.
+- Enough belief to imagine that an extraordinary outcome *could* happen.
+- Renewed energy after a legitimate setback.
+- The urge to call somebody, love with your whole heart, make a plan, go on the adventure.
+- Permission to have a fucking good time while they're here.
 
-## Functional promise
-A standalone thought that is worth a few seconds of someone's attention. Accessible without context, jargon, sound, or special knowledge.
+## What we refuse to imply
+We do not promise guaranteed outcomes, effortless transformation, therapy, superior masculinity, wealth, or universal control over circumstances. We won't shame trauma, grief, illness, poverty or exhaustion. We won't need an enemy to help the reader feel strong.
 
-## Emotional promise
-Not "feel amazing every time." Instead: **feel something real**. Recognition, a jolt, a laugh, courage, tenderness, relief, urgency, or a different way to see something you thought you knew.
+## Social utility
+People should want to send a post with the subtext **"Read this. I believe in you."** Or **"Fuck yes, let's do it."** A little irreverence, relentless possibility and sincere affection should coexist.
 
-## Social promise
-The post is shareable without embarrassing the person who shares it. It can function as a private admission, an encouragement to a friend, a sly provocation, or a caption to one's own life.
+## How to know whether we kept the promise
+After reading a candidate aloud, ask whether the reader's energy **increases through the piece and peaks at the ending**. Does it feel like an ignition or a miniature therapy session? The seven [Editorial Gold](../standards/editorial-gold.md) pieces are the approved comparison.
 
-## The nonpromises
-We do not promise transformation, therapy, superior masculinity, money, status, or guaranteed results. Do not imply that suffering is a choice, trauma can be outworked, or hard work always produces success.
-
-## Why they follow
-Over time, readers should learn that RAISE HELL reliably delivers writing with a point of view. They should not know whether tomorrow's post will be fierce, funny, loving, or devastating. They should know it will be alive.
-
-## Audience research as a future practice
-Listen to actual shares, saves, comments, follower conversion, replies, and qualitative messages once access is available. Separate audience language from audience insecurity. Do not optimize by intensifying shame or resentment.
+## Audience learning
+Use observed shares, saves, comments, follows and responses once actually published. No invented marketing metrics or evidence of virality.
