@@ -113,20 +113,7 @@ Your oldest friends can make you laugh with two words nobody else would understa
 
 **Do not copy:** Lists of old friends' embarrassing memories, or compulsory melancholy about people dying.
 
-## 9. He taught you to drive
-**Register:** Heart / Family. **Form:** Brief scene and hard landing. **Source:** Promising October 2026 generated draft, included for voice calibration only.
-
-```text
-Now he's the one holding the phone at arm's length while you explain it for the third time.
-
-Watch your tone. He taught you to drive.
-```
-
-**Why it earns a place:** A small generational reversal with consequence and almost no explanation. It demonstrates direct tenderness and friction, not a generic command to love your parents.
-
-**Do not copy:** Device confusion, teaching someone to drive, or guilt-bait about aging. Nor assume all readers have safe parental relationships.
-
-## 10. No photographs
+## 9. No photographs
 **Register:** Perspective / Time. **Form:** Quiet two-sentence observation. **Source:** New editorial demonstration.
 
 ```text
