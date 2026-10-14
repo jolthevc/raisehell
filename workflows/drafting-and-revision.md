@@ -1,86 +1,50 @@
 # Workflow | Drafting and Revision
 
-## Objective
-Move from a real human observation to concise, memorable, original copy that feels spoken, raw, and worth sharing.
+## Mission
+Produce new RAISE HELL writing at the **exact emotional level** of the seven [owner-approved Editorial Gold](../standards/editorial-gold.md) pieces. High-conviction, direct, heartfelt, frequently and naturally profane. Make the reader **alive, confident, hungry and ready to go**.
 
-## Preparation
-Read AGENTS.md; literature/editorial-philosophy.md, voice-and-tone.md, emotional-engineering.md, literary-techniques.md, hooks-and-endings.md, language-and-style.md; and the standards files. Use workflows/ideation.md for weak or unformed inputs.
+## Read first
+[Editorial Gold](../standards/editorial-gold.md), [voice-and-tone.md](../literature/voice-and-tone.md), [editorial philosophy](../literature/editorial-philosophy.md), [emotional engineering](../literature/emotional-engineering.md), [hooks and endings](../literature/hooks-and-endings.md), [anti-patterns](../standards/anti-patterns.md), [quality rubric](../standards/quality-rubric.md). Follow explicit user direction and other applicable brand materials.
 
-## Step 0: Start with premises, not polished paragraphs
-For a multi-post brief, explore more candidate **ideas** than the final requested count. Favor discoveries with some intellectual or emotional risk: a hidden cost, a contradiction, a strange joy, a concrete act of nerve, a comic human truth. Compare the naked claims before writing beautiful sentences.
+## 1. Explore more ideas than you return
+For a multi-post request, generate more distinct motivational concepts than the final count. Don't inflate production with near-identical Gold paraphrases. Every premise should create an **emotional opportunity**, not merely a nice observation.
 
-Reject familiar advice dressed up as insight. If the first ideas sound like therapy, generic self-help or caption-ready platitudes, return to the source human situation and take a less expected angle. Do not use the first pass of safe ideas just because they are easy to explain.
+## 2. Name the emotional payoff
+Which feeling or choice does this piece build toward: fierce optimism, conviction, courage, comeback, ambition, love, unselfconscious joy, or real accountability?
 
-## Step 1: Protect the core
-In plain prose, identify:
-- What is true here?
-- What is at stake for a human being?
-- What emotional response do we want?
-- What line or detail might make the idea feel specific?
-Do not begin with "how can this go viral?"
+If its endpoint is simply "that's interesting," it isn't done.
 
-## Step 2: Draft with range
-Explore multiple real approaches, not identical rewrites:
-- A blunt short version.
-- A more conversational or wry version.
-- A quieter or emotionally layered version.
-- An unexpected form if the idea merits it.
+## 3. Draft to the preferred house shape
+**Usually 2-3 small paragraphs**:
+- **Opening:** stop them with a brave assertion, challenging question or thrilling possibility.
+- **Middle:** increase emotional voltage; make the risk, life, longing or future more tangible. Accumulate conviction, don't psychoanalyze.
+- **Ending:** **land hard and launch forward**. A specific demand, dare, affirming statement, or passionate invitation.
 
-Sometimes one version is enough; do not add variations just to meet a number. Do not force a hook followed by setup followed by mic-drop. The work should feel alive.
+Do not inflate a weak premise to three paragraphs. An exceptional shorter or longer piece may win. Similar effective form across the batch is welcome.
 
-## Step 3: Read it like speech
-Read aloud. Flag stiff vocabulary, manufactured pauses, repeated parallel sentences, a last-line moral, and profanity that does not sound natural.
+## 4. Swear like a real person who gives a damn
+Profanity including **fuck, fucking, shit, damn, hell** is a normal creative instrument, often useful and emotionally powerful. It can appear in an opening, buildup or finish. Do not be timid for its own sake; do not spray profanity mechanically or use slurs.
 
-## Step 4: Literary edit
-Use a surgical sequence:
-1. Remove the generic first sentence if the second is where the real thought begins.
-2. Replace vague nouns with observed behavior when useful.
-3. Find the actual emotional turn; delete explanation after it.
-4. Check logic and fairness, especially when confronting the reader.
-5. Listen for cadence rather than merely shortening.
-6. Resist the impulse to make every version more quotable at the expense of truth.
+## 5. Read out loud
+Does the speaker sound in the reader's corner? Can you feel the middle accelerating? Is the ending the strongest moment? If the post fizzles, rework the middle and finish rather than just adding exclamation marks.
 
-## Step 5: Adversarial edit
-Challenge from three positions:
-- **The tired reader:** "I have seen this a thousand times."
-- **The skeptical reader:** "That's not actually true."
-- **The human editor:** "Nobody I know talks like that."
+## 6. Edit with commitment
+- Remove weak setups and analytical filler.
+- Make strong emotional claims without guaranteeing outcomes.
+- Replace empty commands with earned forward motion.
+- Keep the reader's dignity and real circumstances intact.
+- Let wit and tenderness amplify the message, not turn it into a therapy note.
+- Check originality against all Gold texts and recent drafts.
 
-Revise the underlying premise if necessary. Don't just swap adjectives.
+## 7. Score and select
+Apply hard vetoes, then the six-part rubric. The key dimensions are **emotional ignition and forward momentum**. If those are low, the draft probably doesn't belong in RAISE HELL regardless of elegance.
 
-## Step 6: Score, shortlist, diversify
-Apply hard vetoes, the concept/brand gates, and the six-part rubric. Mark survivors CANDIDATE. Compare neighboring posts and remove duplications. Evaluate **the entire batch** for emotional temperature, original premises, ending functions and shapes. A Mixed batch that merely repeats the same compassionate lesson in different scenes has failed even if each item reads smoothly. Some similarity in paragraph count and voice is fine when the actual ideas are excellent. If nothing passes, say so and produce a stronger second exploration. Never fabricate confidence in a weak batch.
+Compare the whole batch, but don't force structural quotas. New Gold-level writing is the test, not the number of archetypes. Reject filler and close paraphrases.
 
-## Step 6a: Pass the publication-set test
-Before returning the requested number of posts, inspect:
-- Is there genuine Fire and Swagger, not just warm introspection, when the direction is Mixed?
-- Can two adjacent posts be mistaken for the same authorial template despite different subjects?
-- Are we recycling the same *idea architecture* of scene -> diagnosis -> instruction, even if individual posts have different lengths?
-- Do some pieces end on a bold claim, a precise image, a joke or an earned silence instead of a homework assignment?
-- Is the underlying thought surprising enough to outlast the graphic and soundtrack?
+## 8. Deliver
+Keep post text clean, with paragraph breaks. No internal labels, hashtags, quotes, explanations or editorial scoring inside the post body. Metadata can live in separate fields. Return the schema the caller requests. Mark generated work **CANDIDATE** until a human approves it.
 
-Re-ideate any failed spots. Do not solve uniformity by mechanically removing paragraph breaks, forcing formats to differ or inserting profanity. Read [Editorial Gold](../standards/editorial-gold.md) to calibrate the quality level, without copying the example ideas.
+## Final calibration
+Put each proposed piece alongside the seven exact Gold examples and ask: **Does this get the blood going? Is the writer promoting the reader into life instead of scolding or quietly observing? Is the last paragraph strong enough to make somebody move?**
 
-## Exemplar-guided pass
-After editing and before delivery, compare the best drafts against [Editorial Gold](../standards/editorial-gold.md) and the excerpts in `literature/voice-and-tone.md`. Not for topical similarity: ask whether they have comparable conviction, wit, precision, originality and emotional staying power. If the new writing feels like a weaker imitation, regenerate the premise. The benchmarks are **not** post candidates, proven engagement examples or material to paraphrase.
-
-## Step 7: Deliver
-Output clean post copy first when requested. Present short private editorial notes or scores separately only if useful. Preserve paragraph breaks. Never put internal category labels, evaluation text, mock engagement numbers, or production instructions inside the post.
-
-## Example improvement path
-Illustrative only, NOT gold.
-
-**Initial:** "The only thing standing between you and success is fear."
-
-**Problem:** false universality; success reduced to mindset; no lived observation.
-
-**Revised idea:** "Performing indifference can be a way to avoid humiliation."
-
-**Draft:** "You keep telling everyone you don't really care if it works.
-
-Funny how much time you spend thinking about it."
-
-This is not certified as a publishable masterpiece. It illustrates moving from slogans to social precision.
-
-## Revision discipline
-A good editor also knows when to stop. Preserve slightly rough, striking language if smoothing it would erase its nerve. The goal is better impact, not maximum elegance.
+If not, it needs another creative pass.
