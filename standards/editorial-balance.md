@@ -1,59 +1,41 @@
-# Editorial Balance | Many Temperatures, One Voice
+# Editorial Balance | One High-Voltage Voice, Many Reasons to Live
 
-Consistency means worldview, not sameness. If every post shouts, none of them shouts. If every post devastates, readers become numb. We want an account that can surprise without losing its identity.
+## The center of gravity
+RAISE HELL is **not** a literary page about subtle human observations. It is a motivational ignition with the deep humanity and range of a real person. **The house temperature is bold, hopeful, provocative and forward-moving.**
 
-## Five registers
-1. **Fire:** courage, ambition, defiance, no more excuses, useful intensity.
-2. **Truth:** precise self-recognition, contradictions, hard conversations.
-3. **Heart:** love, family, friendship, tenderness, loss, gratitude.
-4. **Perspective:** time, mortality, regret, uncertainty, what matters.
-5. **Swagger:** humor, cheek, nerve, audacity, delight, mischief.
+[Editorial Gold](editorial-gold.md) shows the actual seven owner-approved target pieces. The long-run mix can range widely, but **each piece should feel alive**.
 
-These are editorial tags, not fixed audience buckets. One post can carry two registers. A serious week can be appropriate. Never sacrifice a good post to an arbitrary distribution percentage.
+## Core emotional territories
+- **Fire / accountability:** get moving, own the chance you have, stop making the same bargain with your fears.
+- **Outrageous optimism:** the future could exceed your imagination; give the good possibility a real shot.
+- **Courage / confidence:** act before approval and perfect proof arrive.
+- **Resilience / comeback:** hurt is real, but you may have a hell of a lot of life left.
+- **Swagger / joy:** have an unbelievable time being here; don't apologize for wanting to live.
+- **Love / heart:** care boldly, take the chance, show up while you can.
+- **Perspective:** time is finite, and that is a reason to *participate*, not just be wistful.
 
-## Mixed-batch editorial default
-When the user chooses **Mixed** and gives no theme, lead with the brand's distinctive fire, nerve and appetite for life. The candidate set should have meaningful **Fire** and **Swagger**, not merely one mildly assertive item in a sea of tender psychological observations. Truth, Heart and Perspective remain indispensable, but they should create contrast rather than define the entire batch.
+**Mixed** means a compelling selection with multiple destinations, not 1/7 of each territory and not a reflexive switch to gentle introspection.
 
-For an illustrative set of ten, check that the brand's Fire, Truth, Heart, Perspective and Swagger are available across the publication. **Do not force a 3/2/2/2/1 quota or any other formula.** One great piece can carry two registers, and the best ten might lean toward one temperature for a good reason. Editorial quality takes precedence over mathematical diversity.
+## Recognizable house style is a feature
+Two or three compact paragraphs, direct address, high-conviction language, and a strong closing surge can appear across most posts. **Similarity of form is not the same as repetition of thought.**
 
-Avoid the opposite failure: endless challenges, manufactured swagger or performative aggression. The test is variety of **thought and feeling**, not volume or swear-word frequency.
+The meaningful axes of difference are *what the reader feels empowered to do*, emotional temperature, central situation, rhetorical move and distinct closing demand. Do not force novelty for its own sake. Familiar human themes are fair game when executed exceptionally.
 
 ## Batch review
-For any batch of 10 to 20:
-- Count register distribution and notice domination, especially an unrequested drift into soothing Heart/Truth or, conversely, monotonous Fire.
-- Compare topics and private human situations, not just tag names.
-- Identify the repeated opening phrases and cadence.
-- Watch repeated profanity placement and sentence endings.
-- Notice repeated posture: always scolding, always reassuring, always romantic.
-- Expect sufficient contrast in insight and emotional temperature. Similarity of length, direct address or sentence rhythm is not by itself a flaw: the account needs a recognizable signature. A mixed set of ten all built from the *same psychological reveal followed by advice* must be revised before delivery.
-- Compare conceptual originality, not only topic tags. Ten variations on familiar life advice are not ten distinctive ideas.
-- Check whether the actual voice could belong to a hundred other motivational or mental-wellness pages. If yes, regenerate the weakest premises.
+- Does the overall set make a reader feel **alive, confident, hungry and ready to go**?
+- Are bold optimism and conviction sufficiently represented, not crowded out by counseling-style Truth and Heart?
+- Does each individual ending **land** rather than fizzle out?
+- Is the swear-word frequency naturally consistent with the Gold, without robotic placement?
+- Are we attacking passive resignation rather than attacking the reader?
+- Are ambition, joy, resilience, love and action all available over time?
+- Have we recycled a Gold idea or several recent premises with superficial rewrites?
+- Does any post depend on a fake opponent, a psychological diagnosis or a meaningless universal slogan?
 
-## Sequencing principles
-Contrast can be an asset: a fierce discipline post followed later by a tender family observation can make both hit harder. Avoid three near-identical self-respect posts consecutively. Do not force a weekly formula that turns publishing into a machine.
+## Sequencing
+Follow an electrifying challenge with a joyful celebration, a resilience piece, or a deeply affirming vote of belief when it serves the feed. Contrast is valuable **without flattening the baseline energy**.
 
-## Content breadth without blandness
-Universal does not mean harmless. A post can be direct, profane, competitive, sexual in an adult nonexplicit way, vulnerable, or funny without humiliating anyone. The sweet spot is an original point of view that travels beyond one narrow bro subculture.
+## No fake quotas
+A quality publication is edited by judgment. Do not force paragraph-count variety, counts per register, or profanity frequency percentages. It is better for every post in a batch to be strong than for every category to get a mediocre representative.
 
-## A quick batch map
-For a prospective lineup, keep a lightweight note:
-- Subject / human situation
-- Desired emotional aftertaste
-- Register
-- Archetype
-- Length and rhythm
-- Closest existing post
-- Why this deserves its own slot
-
-Do not make readers see these internal tags. They are editorial control surfaces.
-
-## Calibration from the first live generation batch
-A reviewed ten-post batch in October 2026 revealed a predictable failure: all ten pieces had three paragraphs, most moved from a familiar scene to a psychological interpretation and finished with gentle guidance, and the overall temperature skewed too soft. Some individual lines were perceptive and funny, but the set lacked enough originality, fire and risk.
-
-Correct the **generation pattern**, not just the adjective choices. This is diagnostic feedback, not evidence of performance. A few promising drafts from the first two batches have since been curated into **Editorial Gold** as untested *voice* examples, not Performance Gold. Do not reissue their text, ideas or metaphors as new drafts.
-
-## Priority of example-led calibration
-Read [Editorial Gold](editorial-gold.md). Its strongest lesson is that the same personality can express itself through a brutal single sentence, an affectionate joke, a short observation, or a complete scene. **Some repeated formal signatures are good**. Avoid fresh sentences that merely restate the reference examples. Conserve the editorial signature, reinvent the thought.
-
-## The right objective
-**High contrast, not random variety.** A distinctive account can be surprising in what it says while familiar in why it says it. All posts should share the manifesto's appetite for life.
+## Historical drift to avoid
+Previous generated batches often ended at "interesting observation" and over-weighted elegant psychology. That style is retired as the default. **The current seven Editorial Gold posts replace all earlier unapproved illustrative calibrations.** Do not issue their exact words as new content, and do not treat discarded drafts as benchmarks.
