@@ -1,59 +1,47 @@
-# Emotional Engineering | Design for Feeling, Not Clickbait
+# Emotional Engineering | Make Them Feel Ready to Go
 
-The unit of planning is **subject x psychological tension x desired feeling x delivery form**. These dimensions are distinct. We choose them to generate breadth, then abandon the grid if the writing discovers a better idea.
+## The north-star response
+RAISE HELL is built for **"Holy fuck. I needed that. Let's go."** We are not optimizing primarily for a delicate epiphany or quietly accurate psychological observation.
 
-## The seven primary reactions
-| Reaction | Internal experience | Useful mechanism | Bad imitation |
-|---|---|---|---|
-| Recognition | "Fuck, that's me." | Name a private behavior precisely | Generic mind reading |
-| Defiance | "I'm not accepting this." | Restore choice without scapegoats | Anger at an out-group |
-| Courage | "I can do the difficult thing." | Shrink the imagined catastrophe or spotlight real agency | Shame disguised as pep talk |
-| Relief | "I can stop carrying that." | Grant permission or reframe a false obligation | Empty "everything happens for a reason" |
-| Tenderness | "I need to tell someone I love them." | Make ordinary attachment concrete | Manipulative guilt and grief bait |
-| Perspective | "I hadn't seen time like that." | Reframe scale, mortality, and attention | Formulaic "life is short" |
-| Swagger / joy | "Fuck yes, why not?" | Wit, irreverence, appetite for living | Swagger without substance |
+The reader should feel **more capable of taking a chance, more excited to be alive, more inclined to love, more ready to act**. Feeling better isn't the whole goal; **motion** is.
 
-These categories are editorial hypotheses, not scientifically established neural triggers.
+## The primary engines
+1. **Outrageous optimism:** expand the space of good outcomes, without promising any of them.
+2. **Fierce belief:** tell the reader they have permission and reason to take their own potential seriously.
+3. **Agency:** expose the unnecessary wait, the self-imposed permission slip, the decision nobody else can make.
+4. **Ambition and hunger:** want something enormous, interesting, deeply personal, worth the effort.
+5. **Resilience:** meet setbacks with belief in a future that still belongs to them.
+6. **Joy and love:** push them to enjoy their existence, celebrate, take the trip, show up for people.
+7. **Real accountability:** choices matter. Speak to possible action, never assume all struggle is a personal choice.
+8. **Swagger and mischief:** unselfconscious affection for the absurd adventure of living.
 
-## The emotional sequence
-A post may move through:
-- **Entry:** familiar scene or uncomfortable premise.
-- **Recognition:** reader sees the situation clearly.
-- **Reversal:** shift who has power, what matters, or where the fear sits.
-- **Landing:** confidence, ache, laugh, relief, or unease.
+"Mixed" should not mean equal portions of therapeutic tenderness and detached introspection. The default center is **Fire + Optimism + Conviction**. Heart, Perspective and humor are welcome when they also carry energy, purpose or an invitation.
 
-This sequence is optional. A single-sentence post may contain all four at once. Do not mechanically spell out every movement.
+## The energizing arc
+**1. Disrupt.** Begin with an audacious question, a declaration of belief, a challenge, or permission to want more.
 
-## Emotion without exploitation
-It is legitimate to write about death, loss, loneliness, and insecurity. It is not legitimate to weaponize the reader's grief with fake countdowns or shame them for not making every moment count. The post must give something back: clarity, compassion, a beautiful observation, or a doable choice.
+**2. Expand.** Lift the reader's eyes from the immediate obstacle. Make the possibility vivid. Raise stakes, scale, urgency or emotion. The middle must build, not just analyze.
 
-## Engineering novelty
-Start with a commonplace truth, then ask:
-1. What is the *actual* behavior people engage in here?
-2. What excuse or contradiction does it hide?
-3. What is the surprising opposite?
-4. Which ordinary object or moment makes it visible?
-5. What should the reader feel on the final line?
-6. What tired wording would make this uninteresting?
+**3. Launch.** The closing should deliver a surge of conviction: a dare, vote of confidence, direct action or wholehearted invitation. A final sentence that merely restates a reflective insight is usually too flat.
 
-Example concept: "Fear of embarrassment" x "performing indifference" x "permission" x "blunt observation."
+These beats often fit in two or three small paragraphs. They can also fit in a shorter piece; the energy matters more than the diagram.
 
-Illustrative draft:
-"You aren't protecting your dignity by pretending you never wanted it.
+## Emotional destinations
+- **"Fuck yes. It could work."** Courage to take a chance.
+- **"I'm not done."** Resilience with self-respect.
+- **"Why am I waiting?"** Agency and urgency.
+- **"I can want more than this."** Ambition without apology.
+- **"Life is fucking incredible."** Joy, gratitude and wonder.
+- **"I love these people. I should show it."** Warmth expressed through action.
+- **"Let's go."** Simple propulsion and optimism.
 
-You're just giving your fear a better outfit."
+## Profanity and music
+Swearing is a normal voice feature, not a restricted luxury. Fuck, fucking, shit, damn and hell can drive rhythm, disbelief, humor, affection and energy. Use repeatedly when the writing earns it. Watch monotony and swear placement. No curse should be the only exciting part.
 
-This is a writing demonstration, not a gold example or published post.
+Read the text aloud. If the middle dies or the last paragraph dissipates, rewrite until the ending **lands upward**, with energy to spare.
 
-## Tension combinations
-- Self-respect + tenderness: let go of a person without making them the villain.
-- Ambition + gratitude: want more without despising what you have.
-- Mortality + humor: notice how ridiculous it is to waste a finite day worrying about a small embarrassment.
-- Discipline + kindness: admit a choice is hard without declaring yourself defective.
-- Heartbreak + swagger: celebrate the fact that you dared to care.
+## Guardrails
+No fabricated anecdotes, mental-health pseudo-diagnoses, grievance politics, shallow victim-blaming, humiliation or guaranteed success. A challenge must target a choice, not an involuntary limitation. Motivational conviction and reasonable humility coexist.
 
-## Selection guardrail
-Do not pursue outrage simply because it provokes comments. The desired audience reaction is not "I hate them." It is "I recognize this," "I needed this," "I'm going to do something," "I have to send this," or "that's beautifully true."
-
-## What data will teach us
-Once posts are published, compare saves/reach, shares/reach, follow conversion, meaningful comments, and non-follower reach across emotional registers. Beware small samples, distribution shifts, and confounding effects such as account growth or posting time. Results suggest directions; they do not prove psychological mechanisms.
+## Canonical calibrators
+[Editorial Gold](../standards/editorial-gold.md) has seven verbatim owner-approved examples. They establish the target better than an abstract grid. New drafts must match their intensity **without copying their particular turns, metaphors or sentences**.
