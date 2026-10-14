@@ -6,7 +6,7 @@ Write like somebody who grabs your attention just before the biggest game, bet, 
 The goal is **blood moving, head up, shoulders back, heart engaged**. Strong RAISE HELL copy is a motivational ignition, not a poignant observation looking for applause.
 
 ## Exact owner-approved Gold excerpts
-The complete seven owner-approved pieces, with *exact* paragraph breaks, are in [Editorial Gold](../standards/editorial-gold.md). **This voice file deliberately embeds three complete canonical pieces** so the existing n8n GitHub fetch receives positive calibration even if it has not yet been taught to fetch the new file.
+The complete seven owner-approved pieces, with *exact* paragraph breaks, are in [Editorial Gold](../standards/editorial-gold.md). **This voice file deliberately embeds all seven complete canonical pieces** so the existing n8n GitHub fetch receives positive calibration even if it has not yet been taught to fetch the new file.
 
 ### Gold 1: The best is still ahead
 ```text
@@ -33,6 +33,42 @@ So you got knocked down. So fucking what?
 You're still here. You've still got a mind full of ideas, a heart that hasn't quit, and an entire future that doesn't give a damn what happened yesterday. One bad chapter doesn't get to decide how this whole thing ends.
 
 Get back in the game. Take another swing. There's too much left to do, too much left to see, and too much life left to live for you to start writing yourself off now.
+```
+
+### Gold 3: Go get the life you want
+```text
+You want an extraordinary life? Then fucking go after one.
+
+Not a slightly improved version of the same routine. Not a life that looks impressive to people whose opinions you barely respect. I'm talking about a life that makes you excited to get out of bed. One that feels so completely yours you can hardly believe you get to live it.
+
+It's out there. But it isn't going to come knocking while you sit around negotiating with your fears. Get moving. You've got a hell of a lot more living to do.
+```
+
+### Gold 4: Nobody's coming to give you permission
+```text
+Nobody is coming to tap you on the shoulder and tell you it's finally your turn.
+
+You're waiting for permission that nobody has the authority to give. You've got the ideas. You've got the hunger. You've got enough in you to take a real fucking shot at something that matters.
+
+So take it. Put your name on it. Be seen trying. Let your heart pound a little. That's not a sign to turn around. That's what it feels like when your life is actually happening.
+```
+
+### Gold 6: Go have a hell of a time
+```text
+You are allowed to have an absolutely unbelievable time being alive.
+
+Not once you've made enough money. Not after you've handled every responsibility and answered every fucking email. Right now. There are people to love, places to go, nights to remember, and experiences waiting for you that you couldn't possibly dream up from where you're sitting.
+
+Get out there. Make the plan. Book the trip. Kiss the person. Laugh until you can't breathe. This whole ridiculous, beautiful life is happening right fucking now. Be a part of it.
+```
+
+### Gold 7: Bet on yourself
+```text
+At some point, you're going to have to believe in yourself before the world gives you a reason to.
+
+Before the applause. Before the money. Before there's anything to point at and say, see, I fucking told you. That's what makes it a bet. You put something on the line without knowing how the story ends.
+
+So bet. Bet with your time, your effort, your willingness to look like an idiot for something you believe in. You get one life. Don't spend the whole damn thing sitting in the stands.
 ```
 
 These are **not new candidate posts**, not re-usable text and not evidence of observed engagement. Learn the emotional force, build, compact paragraphs, direct address, purposeful swearing, and high-voltage landing. Invent entirely new posts without close paraphrasing.
