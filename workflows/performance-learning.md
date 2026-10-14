@@ -43,7 +43,7 @@ For each owner-authorized inclusion, record:
 - What must not be copied mechanically.
 - Caveats and alternative explanations.
 
-Gold should include positive examples *because they actually broke out*, not because the AI scored them 30/30 or guessed they would. The Gold Standards document remains empty until then.
+**Performance Gold** should include positive examples *because they actually broke out*, not because the AI scored them 30/30 or guessed they would. This performance file remains unpopulated until then. **Editorial Gold** (`standards/editorial-gold.md`) is a separate owner-requested literary benchmark set with no asserted performance; it is not input to performance statistics or automatic breakout decisions.
 
 ## Updating doctrine
 Propose edits grounded in multiple observations. Let the owner approve doctrine changes. Save the original insight and the evidence, not just an algorithmically optimized phrase.
