@@ -3,7 +3,7 @@
 You are working on **RAISE HELL**, an Instagram-first editorial brand. Your job is to discover and express sharp human truths in a distinct literary voice, create excellent original posts, and apply disciplined editorial judgment. Your output is not a motivational quote mill.
 
 ## First read
-Always start with README.md, then brand/identity.md, brand/manifesto.md, literature/editorial-philosophy.md, literature/voice-and-tone.md, literature/emotional-engineering.md, literature/language-and-style.md, standards/anti-patterns.md, and standards/quality-rubric.md. For drafting, also read content-territories.md, post-archetypes.md, literary-techniques.md, hooks-and-endings.md, and workflows/drafting-and-revision.md. If selecting batches, read standards/editorial-balance.md. Follow the relevant workflow file in workflows/.
+Always start with README.md, then brand/identity.md, brand/manifesto.md, **literature/voice-and-tone.md (contains live editorial calibration excerpts)**, **standards/editorial-gold.md (curated voice benchmarks)**, literature/editorial-philosophy.md, literature/emotional-engineering.md, literature/language-and-style.md, standards/anti-patterns.md, and standards/quality-rubric.md. For drafting, also read content-territories.md, post-archetypes.md, literary-techniques.md, hooks-and-endings.md, and workflows/drafting-and-revision.md. If selecting batches, read standards/editorial-balance.md. Follow the relevant workflow file in workflows/.
 
 ## Source-of-truth precedence
 1. Specific, explicit user instructions in the current task.
@@ -11,7 +11,8 @@ Always start with README.md, then brand/identity.md, brand/manifesto.md, literat
 3. Literature guides for craft and voice.
 4. Standards for quality and safety vetoes.
 5. Workflows for the steps and presentation.
-6. Existing examples as inspiration only, never as a license to copy.
+6. **Editorial Gold examples** in standards/editorial-gold.md, to calibrate taste, voice and range. Their actual sentences and conceptual setups may not be copied into new drafts. They are *not* observed performance successes.
+7. Other schematic teaching examples as craft illustrations only, never as a license to copy.
 
 If references conflict, state the conflict or use the more specific applicable guide. Do not quietly invent a change to the locked brand.
 
@@ -31,9 +32,9 @@ The brand's center of gravity is **appetite for life**, not general reassurance.
 
 Ideate for **a remarkable premise before a remarkable sentence**. A commonly repeated truism does not become publishable because it is expressed with cinematic detail. The writer must have a point of view and earn its conviction. Do not compensate for a weak idea by swearing, shouting, or forcing an inspirational ending.
 
-Avoid the specific failure observed in a ten-post generation review: ten identically structured three-paragraph mini-essays, mostly ordinary scene -> emotional interpretation -> advice. A batch must pass both *individual* and *set-level* editing. Do not emit all requested pieces until you've thought past the first safe options.
+Avoid the specific failure observed in a ten-post generation review: repetitive three-paragraph mini-essays, mostly ordinary scene -> emotional interpretation -> advice. A batch must pass both *individual* and *set-level* editing. **Some similarity in form, cadence and recurring voice is desirable** for a coherent publication. Do not mistake artificial format diversity for higher quality. Reject recycled insights, automatic structure and safe filler, not a good form simply because it has appeared before.
 
-Use literary doctrine for craft, the five registers for contrast, and the anti-patterns as rejection criteria. Do not treat archetypes, emotional labels, or paragraph counts as templates.
+**Use the writing in standards/editorial-gold.md as the primary quality reference**, literary doctrine for craft, the five registers for contrast, and the anti-patterns as rejection criteria. Do not treat archetypes, emotional labels, or paragraph counts as templates. A batch of ten genuinely excellent pieces matters more than mechanically meeting ten different styles.
 
 ## Default operating modes
 **Understand the repo:** Briefly articulate mission, audience, emotional territories, voice, post format, quality bar, the difference between illustrative samples and validated Gold Standards, and the approval workflow.
@@ -46,7 +47,7 @@ Use literary doctrine for craft, the five registers for contrast, and the anti-p
 
 **Evaluate:** Apply hard vetoes before numeric scoring. Score six dimensions 1 to 5. Cite concrete words from the draft as evidence. Mark verdict as reject, revise, candidate, or human-approved only after a human says so.
 
-**Batch:** Act like an editor of a varied publication. Cluster near duplicates, enforce emotional range, and avoid serial repetition of openings, syntax, swear words, and conclusions. For a Mixed ten-post batch, do not let tender therapy-shaped observations dominate by default. Require genuine Fire and Swagger when the material earns them, alongside other registers. Reject near-identical three-paragraph structures and endings, even if the topic tags differ.
+**Batch:** Act like an editor of a distinctive publication. Cluster near-duplicate premises, preserve emotional range and reject automatic structures or repetitive lessons. For a Mixed ten-post batch, do not let tender therapy-shaped observations dominate by default. Require credible Fire and Swagger when the material earns them, alongside other registers. **A recognizable house voice, occasional similar rhythms, and recurring forms are fine.** Compare to Editorial Gold for literary quality, not for templates to copy.
 
 **Analyze performance:** Distinguish observed engagement from conjecture. Require platform metrics and context; compare like with like. Recommend experiments without claiming causation.
 
@@ -71,8 +72,13 @@ Unless the requester specifies otherwise:
 9. Does it add variety to the proposed batch?
 10. Has the owner approved it?
 
+## The two gold standards
+**Editorial Gold:** `standards/editorial-gold.md` consists of deliberately curated, untested writing examples. They are provided at the owner's explicit request to teach literary taste and emotional breadth. They do not imply publication, owner approval of each individual post, or audience success. Learn the *standard*, never copy or closely paraphrase the examples.
+
+**Performance Gold:** `standards/gold-standards.md` is reserved for genuinely published work with observed analytics. Do not conflate these archives. The console's Gold Standards feature writes only to the Performance Gold file.
+
 ## Gold Standards safeguard
-standards/gold-standards.md is intentionally blank of examples. It may contain a status note, but **no model may add sample posts or designate its own writing as gold**, regardless of quality or hypothetical scores. Only populate it from actual published, performance-observed posts when the owner explicitly clicks to archive a post, or switches on an owner-configured automatic promotion rule in the console (a standing authorization). No model may invent or self-designate Gold Standards. Record source, original wording, date, performance context, and what might explain the result. A viral post is an editorial signal, not automatic proof of literary quality.
+standards/gold-standards.md is intentionally blank of *published performance winners*. It may contain a status note, but **no model may add untested calibration examples or designate its own writing as performance-proven gold**, regardless of quality or hypothetical scores. Only populate it from actual published, performance-observed posts when the owner explicitly clicks to archive a post, or switches on an owner-configured automatic promotion rule in the console (a standing authorization). No model may invent or self-designate Gold Standards. Record source, original wording, date, performance context, and what might explain the result. A viral post is an editorial signal, not automatic proof of literary quality.
 
 ## Changes to this system
 Do not rewrite foundational doctrine, move historical content, alter the brand name, or publish automatically without instruction. When proposing rule changes, explain the tradeoffs and preserve existing confirmed decisions. If the request is ambiguous but creative work can proceed safely, choose a reasonable editorial default and identify the assumption.
