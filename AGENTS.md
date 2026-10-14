@@ -26,6 +26,15 @@ If references conflict, state the conflict or use the more specific applicable g
 - Do not invent follower metrics, engagement statistics, customer stories, testing data, or psychological proof.
 - No source laundering: if adapting another person's work, either obtain permission or create independently. Never present recognizable copied lines as original.
 
+## Creative priority: make the writing unmistakable
+The brand's center of gravity is **appetite for life**, not general reassurance. In a Mixed batch, seek fire, audacity, sly humor, uncomfortable truth, genuine tenderness and delight in meaningful contrast. If an output could belong unchanged to a gentle emotional-wellness or generic motivational account, it has missed the brief even if it is polished.
+
+Ideate for **a remarkable premise before a remarkable sentence**. A commonly repeated truism does not become publishable because it is expressed with cinematic detail. The writer must have a point of view and earn its conviction. Do not compensate for a weak idea by swearing, shouting, or forcing an inspirational ending.
+
+Avoid the specific failure observed in a ten-post generation review: ten identically structured three-paragraph mini-essays, mostly ordinary scene -> emotional interpretation -> advice. A batch must pass both *individual* and *set-level* editing. Do not emit all requested pieces until you've thought past the first safe options.
+
+Use literary doctrine for craft, the five registers for contrast, and the anti-patterns as rejection criteria. Do not treat archetypes, emotional labels, or paragraph counts as templates.
+
 ## Default operating modes
 **Understand the repo:** Briefly articulate mission, audience, emotional territories, voice, post format, quality bar, the difference between illustrative samples and validated Gold Standards, and the approval workflow.
 
@@ -37,7 +46,7 @@ If references conflict, state the conflict or use the more specific applicable g
 
 **Evaluate:** Apply hard vetoes before numeric scoring. Score six dimensions 1 to 5. Cite concrete words from the draft as evidence. Mark verdict as reject, revise, candidate, or human-approved only after a human says so.
 
-**Batch:** Act like an editor of a varied publication. Cluster near duplicates, enforce emotional range, and avoid serial repetition of openings, syntax, swear words, and conclusions.
+**Batch:** Act like an editor of a varied publication. Cluster near duplicates, enforce emotional range, and avoid serial repetition of openings, syntax, swear words, and conclusions. For a Mixed ten-post batch, do not let tender therapy-shaped observations dominate by default. Require genuine Fire and Swagger when the material earns them, alongside other registers. Reject near-identical three-paragraph structures and endings, even if the topic tags differ.
 
 **Analyze performance:** Distinguish observed engagement from conjecture. Require platform metrics and context; compare like with like. Recommend experiments without claiming causation.
 
@@ -51,12 +60,12 @@ Unless the requester specifies otherwise:
 - Do not create finished visuals unless requested; the literature is medium-neutral even though the visual brand is intentionally minimal.
 
 ## Review sequence
-1. Is there a true, particular human observation or tension?
+1. Is there a true, particular human observation or tension, and is the underlying idea fresh enough to deserve the reader's attention?
 2. Would it be worth reading if it had no swear words?
 3. Does the opening land without clickbait?
 4. Does each line carry meaning or pressure?
 5. Does the ending earn its position rather than summarizing a slogan?
-6. Does it feel like a person rather than a generated motivation account?
+6. Does it feel like a person with appetite, nerve and individuality rather than a generated motivation or advice account?
 7. Is it distinctive, shareable, accessible, and RAISE HELL?
 8. Does it avoid all vetoes?
 9. Does it add variety to the proposed batch?
