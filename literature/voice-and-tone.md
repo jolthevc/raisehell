@@ -1,117 +1,70 @@
-# Voice and Tone | A Friend With Some Nerve
+# Voice and Tone | Someone Who Believes in You Like Hell
 
-## The voice in one paragraph
-RAISE HELL speaks like the uncommonly perceptive friend who cares enough to tell the truth and has enough of a life to laugh at it. Direct, sometimes rude, often warm, a little mischievous. It can hit a hard note without grandstanding. It can get sentimental without apologizing. It can swear without treating profanity as personality.
+## The feeling
+Write like somebody who grabs your attention just before the biggest game, bet, date, leap, or adventure of your life, looks you in the eye and reminds you what could be possible. **Not angry at you. Fiercely in your corner.** A friend with enough conviction to challenge your hesitation, and enough joy to remind you why living is worth the effort.
 
-## Default energy: fire with a human pulse
-The title **RAISE HELL** must be audible in the writing even when there is no profanity. The voice has appetite, mischief, conviction and the courage to be emotionally exposed. It is willing to name cowardice, vanity, comfort, wasted time and missed chances when the observation is earned. It is equally willing to celebrate an outrageous act of joy or affection.
+The goal is **blood moving, head up, shoulders back, heart engaged**. Strong RAISE HELL copy is a motivational ignition, not a poignant observation looking for applause.
 
-For an unthemed batch, do not default to soft psychological insight, soothing validation or an implied therapy session. Some posts should have swagger; some should make a person want to take a risk, stand up straighter, apologize, build, leave, love or simply go have a hell of a night. Others may sit quietly beside grief. **Range is essential, but warm reassurance is not the house style.**
+## Exact owner-approved Gold excerpts
+The complete seven owner-approved pieces, with *exact* paragraph breaks, are in [Editorial Gold](../standards/editorial-gold.md). **This voice file deliberately embeds three complete canonical pieces** so the existing n8n GitHub fetch receives positive calibration even if it has not yet been taught to fetch the new file.
 
-The voice is a person with a life, not a motivational lecturer, advice columnist or clinician interpreting the reader's behavior.
+### Gold 1: The best is still ahead
+```text
+Who the fuck decided the best thing that's ever going to happen to you has already happened?
 
-## Six instruments
-### 1. Direct address
-Use "you" when it puts a hand on the reader's shoulder or challenges a choice. Avoid implying you know the reader's entire life from one quote.
+You haven't met everyone who's going to change your life. You haven't walked into every room that's going to open for you. You haven't even found out what happens when you quit hedging and give something your whole damn heart.
 
-### 2. The ordinary detail
-Small situations confer reality: sitting in a parked car before going inside, typing a text then deleting it, noticing your mother's hands, pretending you do not care who called. Use sparingly and honestly. Do not invent ornate fake life stories.
+Stop talking like the good part is behind you. Get your ass out there and make it very, very hard for yesterday to compete.
+```
 
-### 3. Unshowy wit
-Humor can disarm defensiveness. Dry, knowing, unexpected. The punchline should carry understanding, not ridicule of vulnerable people.
+### Gold 2: What if it fucking works?
+```text
+You are so fucking prepared for disaster it's impressive.
 
-### 4. Swearing with a job
-Profanity can accelerate rhythm, break a polite mask, express disbelief, or mark an emotional threshold. It cannot substitute for insight. A rough default: many posts with zero swear words, some with one, rare pieces with more when truly natural. Not a quota.
+You've rehearsed the rejection, the embarrassment, the exact expression on everyone's face when it all falls apart. Fine. Now imagine the other possibility. The one where they say yes. The one where you walk out of that room trying not to grin like an idiot. The one where everything changes because you actually had the balls to try.
 
-### 5. Controlled heat
-"Brother, you've been making the same excuse for three years" can work because the recognition is exact. An endless bark of commands sounds like a gym instructor. Tough love needs evidence and humanity.
+That's on the table too. Act like it. Make the call. Submit the thing. Give success a chance to knock your fucking socks off.
+```
 
-### 6. Sincere softness
-We can be unguardedly affectionate. A post about calling a parent may be entirely free of bravado. Being confident means not flinching from care.
+### Gold 3: You are not fucking finished
+```text
+So you got knocked down. So fucking what?
 
-## Pressure and personality
-- **Incisive:** Spot an excuse or contradiction and put it into ordinary language without turning the reader into an inferior.
-- **Incendiary:** Make courage feel tangible through a choice with real stakes. Never replace the insight with volume.
-- **Swagger:** Let confidence, appetite, wicked observation and honest humor do work. A funny line can carry more philosophy than a sermon.
-- **Tender:** Let care be care. Do not automatically add an instruction or interpret every gesture as evidence of a psychological wound.
-- **Observational:** Sometimes report the strange, funny truth and stop. Not every post needs a transformation arc.
+You're still here. You've still got a mind full of ideas, a heart that hasn't quit, and an entire future that doesn't give a damn what happened yesterday. One bad chapter doesn't get to decide how this whole thing ends.
 
-Avoid a repeated trajectory of ordinary scene -> psychological diagnosis -> benevolent instruction. It can work once; as a house formula, it becomes predictable.
+Get back in the game. Take another swing. There's too much left to do, too much left to see, and too much life left to live for you to start writing yourself off now.
+```
 
-## Editorial Gold: the level to aim for
-The following are *voice-calibration examples*, not published posts, not proven engagement winners, and not automatic permission to publish. The full curated set, covering Fire, Truth, Swagger, Heart and Perspective with specific editorial rationale, is in [Editorial Gold](../standards/editorial-gold.md).
+These are **not new candidate posts**, not re-usable text and not evidence of observed engagement. Learn the emotional force, build, compact paragraphs, direct address, purposeful swearing, and high-voltage landing. Invent entirely new posts without close paraphrasing.
 
-These examples are more important as calibrators than schematic "Too generic / Closer" teaching fragments. Read the copy as writing, not as a checklist. Produce **different ideas at comparable force**, not paraphrases.
+## Core voice behaviors
+1. **Believe harder.** The reader needs to feel an ally convinced there is more possible than they have allowed themselves to imagine.
+2. **Raise the stakes.** Turn a thought into a choice, a door to walk through, a life to live, or a chance worth taking.
+3. **Be forceful, not punitive.** Challenge passive resignation. Do not accuse people of weakness for being tired, broke, afraid, grieving or struggling.
+4. **Swear naturally and often enough to sound like this brand.** Fuck, fucking, shit, damn and hell belong in the vocabulary. Their presence is normal, not a rare special event. When used, they must add cadence or emotional voltage; do not pad the sentence or make every swear land at the same beat.
+5. **Give permission to want everything.** Optimism, hunger, romance, adventure and joy are not embarrassing.
+6. **Get personal.** Direct address and conversational contractions are the default. You can be funny, expansive, tender and irreverent.
+7. **End on a launch.** Not simply a neat observation; an earned command, call to courage, vote of confidence or irresistible celebration.
 
-**Fire.** Conviction without shouting:
-> You can build an extremely respectable life by disappointing yourself in private.
+## The house rhythm
+The sweet spot is **two or three tight paragraphs**. The opening interrupts. The middle draws the reader in and builds emotional pressure or possibility. The final paragraph releases that charge *forward*. Good repetition, escalating lists, rhythmic imperatives and strong declarations are welcomed.
 
-**Defiance.** Two true feelings in tension:
-> You can love your life and still want to blow parts of it up. Gratitude isn't a life sentence.
+Don't mechanically copy the "question / list / imperative" template. Some openings are proclamations. Some endings are emphatic belief rather than a literal action. The arc matters more than the syntax.
 
-**Truth.** Specific behavior and a sharp image:
-> You call it your little book thing and laugh before anyone else can. The band. The business. The photographs you never show anyone.
->
-> You've been heckling yourself in an empty room.
+## Compare these emotional outcomes
+- **Too cool:** "An interesting consequence of procrastination is..."
+- **RAISE HELL:** The reader feels the cost of one more year of waiting and immediately wants to act.
+- **Too hostile:** "You're a loser if you're not working every second."
+- **RAISE HELL:** "You've got a hell of a lot more life to live. Stop letting it happen without you."
+- **Too therapeutic:** A soft observation about vulnerability, ending with a reassuring insight.
+- **RAISE HELL:** A powerful reminder that somebody can love more, risk more or believe in themselves again, ending with a push.
+- **Too empty:** "WIN. DOMINATE. GRIND."
+- **RAISE HELL:** Courage, hope and hunger in understandable language with actual emotional substance.
 
-**Swagger.** Social comedy that knows what it means:
-> Where do you want to eat? I don't mind. What do you want to watch? Whatever. What should we do this weekend? I'm easy.
->
-> You think you're being easygoing. Keep it up for a few more years and you'll genuinely forget what you would have picked.
->
-> Start small. Have an opinion about tacos. Work your way up to your life.
+Illustrative contrast only; these mini lines are **not** new Gold.
 
-**Humor with bite.** An affectionate consequence:
-> You stay up until 1:40 doing nothing on your phone because it's the only part of the day that feels like yours.
->
-> Fair enough. But at 6:50 the alarm goes off and somebody has to pay for that freedom, and it's always the same poor bastard.
->
-> Go to bed. Do him a favor. He's been carrying you for weeks.
+## Boundaries
+Do not imitate aggressive internet grievance culture. No cruelty, misogyny, weak-men insults, magical certainty, fabricated testimony, or contempt for people with real constraints. No forced masculine clichés about wolves, kings, empires, battles against imaginary enemies, or strangers who supposedly hate you. Never turn the audience into the enemy.
 
-**Heart.** Care through a particular detail, without a moral:
-> Your oldest friends can make you laugh with two words nobody else would understand. That's a language you built without noticing.
-
-**Perspective.** An unexpected reversal about freedom:
-> At twelve, you couldn't wait to grow up so nobody could tell you what to do.
->
-> Funny how you ended up being the strictest person in the house.
-
-**Important:** Some examples use similar forms or second-person voice. That is fine. The error is **reusing the same predictable insight**, not sharing an editorial signature. A new batch can include multiple excellent one-liners or multiple paragraphs when the thoughts earn those forms. No obligatory formal quota. Never reproduce these reference posts as fresh drafts.
-
-## Examples of voice calibration
-These are **illustrative drafts, not proven Gold Standards**.
-
-**Too generic:** "Discipline beats motivation every day."
-
-**Closer:** "You don't need another speech about discipline. You need to stop negotiating with the version of you that never wants to start."
-
-**Too cruel:** "If you're still broke, you're lazy."
-
-**Closer:** "The amount of time you've spent pretending not to care about money is getting expensive."
-
-**Too preachy:** "Cherish your loved ones before it's too late."
-
-**Closer:** "One day you'll wish you had asked your dad what he was like before he was your dad."
-
-**Too polished:** "The architecture of your future is constructed through daily defiance."
-
-**Closer:** "Nobody's coming to give you a better Tuesday. You have to do something with the one you've got."
-
-## Tone controls
-- **Heat:** soft / steady / blunt / incendiary.
-- **Nerve:** restrained / candid / daring / audacious. Daring means saying something earned, not violating decency for attention.
-- **Closeness:** universal observation / direct address / confiding voice.
-- **Humor:** none / wry / dry punchline / absurd.
-- **Tenderness:** none / undercurrent / explicit.
-- **Profanity:** none / precise / occasional elevated intensity.
-
-A post should occupy a deliberate setting, not maximum intensity on all controls.
-
-## Red lines
-No contempt for women, "weak men," outsiders, people with mental-health struggles, or anyone facing difficult material circumstances. No pseudoscientific claims about human nature. No omniscient "you always" diagnoses. No hollow "sigma" tropes. No "alpha" as a status badge. The energy can be alpha; the content is human.
-
-## The final read-aloud test
-Would a quick-witted, fiercely alive friend actually say this? Does it carry an unmistakable viewpoint? Is the ending part of the thought or merely a nice instruction to the audience? If it sounds like a caring stranger doing gentle emotional coaching, it may be good prose but it is probably not RAISE HELL.
-
-## One-paragraph compass
-Not **angry at the world**, but **hungry for life**. Not **talking down**, but **calling forward**. Not **trying to sound deep**, but **saying something felt**.
+## Final test
+Read it aloud with no music. Would you want to get off your ass, do the scary thing, call the person, try again, or go enjoy the hell out of life? Does the last line leave you with **more energy than the first**? That is the voice.
