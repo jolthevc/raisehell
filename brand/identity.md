@@ -1,41 +1,44 @@
 # Brand Identity | RAISE HELL
 
-## The name
-**RAISE HELL** is a command. It does not describe a product category; it declares a way of moving through life. It is forceful without prescribing who the reader must become.
+## Name and public promise
+**RAISE HELL.** A command to participate in your one shot at being alive. Not a call to anger, spite or rebellion against other people.
 
-Use **RAISE HELL** as the brand. **@raisehelldaily** is the proposed social handle, subject to actual availability. "Daily" is not part of the brand name.
+Tagline: **A little fire for your day.** Social handle direction: **@raisehelldaily** ("Daily" is not part of the brand name).
 
-## The line
-**A little fire for your day.**
+## The belief
+**RAISE HELL is not about being angry at the world. It is about refusing to sleepwalk through your one shot at being alive.**
 
-It promises a small, memorable ignition rather than a ten-step program. Never over-explain the metaphor on every post.
+The product is **ignition**. Readers should leave with their blood moving, confidence lifted, and the urge to live more boldly: make the call, pursue the goal, love harder, get back up, book the trip, say yes to life.
 
-## The thesis
-**Raise Hell is not about being angry at the world. It is about refusing to sleepwalk through your one shot at being alive.**
+The voice is like a trusted person giving you the talk before the most important game of your life. Fiercely on your side. Willing to challenge you. Absolutely convinced that it's worth taking the shot. **Not someone shouting at you or blaming you for everything.**
 
-Our enemy is passive resignation, unexamined habits, needless self-erasure, numbing distraction, and the false idea that there will always be more time. Our enemy is *not* women, kindness, vulnerability, other men, the reader's past self, or ordinary people doing their best.
+## The emotional center
+- **Outrageous optimism:** an incredible future is possible; stop acting like all the doors are closed.
+- **Courage and conviction:** move before you have every answer or everybody's approval.
+- **Ambition:** want an extraordinary life on your own terms, not a prestige performance.
+- **Resilience:** being hurt or defeated does not automatically mean finished.
+- **Joy and love:** delight in this ridiculous existence and the people who make it worth living.
+- **Accountability:** choices have consequences, but people are more than their constraints.
 
-## What we are
-A raw literary account that turns ordinary human experiences into words people stop for, read twice, save, and send to someone else. Encouragement is a major register but not the only one. We can make readers laugh, ache, remember, feel brave, feel loved, or feel called out.
+The writing is hopeful **and** demanding. It can swear frequently, swing hard and still feel warm, human and generous.
 
-## What we are not
-Not a life coach, productivity consultant, pseudo-Stoic guru, dating grievance page, political outlet, self-help pyramid, therapeutic substitute, doom account, or sermon on productivity. We have an attitude, not an ideology. The brand should never need a caricatured enemy to be compelling.
+## Not this
+Not a life coach's checklist, therapy account, detached philosophy page, grief-bait nostalgia feed, productivity cult, political grievance page, red-pill status hierarchy, contempt account, manufactured rage, or generic hustle wallpaper.
 
-## Personality in six tensions
-- **Wild but warm:** big appetite for life, genuine care for people.
-- **Bold but not cruel:** confront avoidance without humiliating struggle.
-- **Masculine but not exclusionary:** direct and gritty, without gender essentialism.
-- **Literary but unpretentious:** thought-out architecture, spoken-language surface.
-- **Profane but not performative:** swear words when they release pressure or sound true.
-- **Confident but not omniscient:** conviction in the writing, humility about facts and outcomes.
+The reader is never a punching bag. We confront resignation, not vulnerability.
 
-## Visual expression
-See visual-and-profile.md. Default: black square, restrained white type, no decorative excess. Single burning match symbol for profile identity. Text is the star.
+## The product and format
+- Instagram-first, black background, restrained white type, single burning-match brand mark.
+- Copy is the product. Text should work without soundtrack or graphics.
+- **Default 2-3 short punchy paragraphs**: arresting opening, escalating conviction or possibility, **a closing punch that compels action**.
+- Sometimes shorter or longer if earned. Avoid flat observation-only endings as the habitual style.
+- Profanity including **fuck, fucking, shit, damn, hell** is welcome as normal brand vocabulary for impact, not a pretense of toughness.
+- The literary standard is established by the exact owner-approved examples in [Editorial Gold](../standards/editorial-gold.md).
 
-## Relationship to audience
-We are the friend who tells you the thing you know but have not let yourself admit, the older sibling who won't let you shrink, and the stranger who reminds you that life is staggeringly short and still worth grabbing.
+## Audience relationship
+We are a fiercely encouraging friend, older sibling, or teammate. We tell the reader something true, make them believe a little bigger and push them **toward** life. We speak with conviction without promising outcomes.
 
-The implicit deal: **we do not waste your attention.**
+**The implicit deal: we will not waste your attention, flatter you with hollow praise, or humiliate you to manufacture intensity.**
 
-## North-star question
-Would this make somebody feel more awake in their own life, with enough specificity to be more than a slogan?
+## North star
+Would someone finish this feeling **alive, confident, hungry and ready to go**, rather than merely thinking "nice quote"?
