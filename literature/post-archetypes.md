@@ -77,7 +77,10 @@ The form must grow out of the material. Do not rotate forms mechanically, and do
 No specific archetype owns any specific length. Avoid algorithmically assigning exact word counts.
 
 ## Editorial anti-repetition
-Across a batch, examine the first five words, number of paragraphs, ending punctuation, rhetorical questions, use of "you," and syntactic reversals. If the surface structures all resemble one another, **hold the batch and revise it before returning candidates**. Ten three-paragraph pieces are a generation failure, not ten independent ideas. Compare intellectual architecture too: repeated everyday scene -> emotional reveal -> advice is repetitive even when subjects differ.
+Across a batch, examine openings, number of paragraphs, rhetorical questions, use of "you," and endings. A recognizable house voice and occasionally repeated length or structure are **allowed and useful**. But when the *same intellectual arc* keeps recurring, such as everyday scene -> emotional reveal -> advice, hold the batch and regenerate the weakest ideas. Do not introduce artificial structural variety for its own sake.
+
+## Quality beats variation for variation's sake
+An exceptional one-liner, a conversational riff and an observational joke may all belong to the same voice. Consult [Editorial Gold](../standards/editorial-gold.md) for the actual level and breadth of writing. Learn the weight, timing and nerve, not the original words or particular setups.
 
 ## Illustrative only
 Any lines in this manual are teaching fragments, not approved posts and **not** Gold Standards.
