@@ -2,6 +2,9 @@
 
 No post is approved merely because a model scored it highly.
 
+## Positive calibration
+Read [Editorial Gold](../standards/editorial-gold.md) as the reference for creative *quality*. Ask whether the new piece is as striking, honest, human and alive as the relevant benchmark without sharing its distinctive premise or wording. These examples are untested and are not permission to publish. Actual breakout observations live separately in [Performance Gold Standards](../standards/gold-standards.md).
+
 ## Preflight
 1. **Truth:** Is the central observation credible and not a disguised cliché?
 2. **Humanity:** Does it speak to a person, not an imagined inferior?
@@ -11,7 +14,7 @@ No post is approved merely because a model scored it highly.
 6. **Originality:** Is there a genuine fresh observation or specific expression?
 7. **Care:** No hard vetoes from standards/anti-patterns.md.
 8. **Readability:** Does plain text work? Will layout remain legible?
-9. **Set fit:** Does it repeat recent topics, architecture, or emotional temperature?
+9. **Set fit:** Does it repeat a recent *idea* or produce another safe, predictable explanation? Some similarity of voice, rhythm or form is fine.
 10. **Human approval:** Has the owner expressly selected it?
 
 ## Review record
@@ -40,4 +43,4 @@ Once approved, copy should be treated as canonical for rendering. If line breaks
 **NO-GO:** derivative, hollow, manipulative, contemptuous, or unreadable.
 
 ## Gold is not approval
-An approved post is not automatically a Gold Standard. Publication is not automatically a breakout. Gold requires separate actual performance evidence and owner selection; see workflows/performance-learning.md.
+An approved post is not automatically a *Performance Gold* Standard. Publication is not automatically a breakout. Performance Gold requires actual performance evidence and owner authorization; see workflows/performance-learning.md. **Editorial Gold** contains untested voice benchmarks selected to calibrate writing, not to serve as performance claims.
