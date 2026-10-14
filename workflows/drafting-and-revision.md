@@ -49,17 +49,20 @@ Challenge from three positions:
 Revise the underlying premise if necessary. Don't just swap adjectives.
 
 ## Step 6: Score, shortlist, diversify
-Apply hard vetoes, the concept/brand gates, and the six-part rubric. Mark survivors CANDIDATE. Compare neighboring posts and remove duplications. Evaluate **the entire batch** for emotional temperature, original premises, ending functions and shapes. A Mixed batch that is all compassionate three-paragraph lessons has failed even if each item reads smoothly. If nothing passes, say so and produce a stronger second exploration. Never fabricate confidence in a weak batch.
+Apply hard vetoes, the concept/brand gates, and the six-part rubric. Mark survivors CANDIDATE. Compare neighboring posts and remove duplications. Evaluate **the entire batch** for emotional temperature, original premises, ending functions and shapes. A Mixed batch that merely repeats the same compassionate lesson in different scenes has failed even if each item reads smoothly. Some similarity in paragraph count and voice is fine when the actual ideas are excellent. If nothing passes, say so and produce a stronger second exploration. Never fabricate confidence in a weak batch.
 
 ## Step 6a: Pass the publication-set test
 Before returning the requested number of posts, inspect:
 - Is there genuine Fire and Swagger, not just warm introspection, when the direction is Mixed?
 - Can two adjacent posts be mistaken for the same authorial template despite different subjects?
-- Are all pieces three short paragraphs or variations of scene -> diagnosis -> instruction?
+- Are we recycling the same *idea architecture* of scene -> diagnosis -> instruction, even if individual posts have different lengths?
 - Do some pieces end on a bold claim, a precise image, a joke or an earned silence instead of a homework assignment?
 - Is the underlying thought surprising enough to outlast the graphic and soundtrack?
 
-Re-ideate any failed spots. Do not solve uniformity by mechanically removing paragraph breaks or inserting profanity.
+Re-ideate any failed spots. Do not solve uniformity by mechanically removing paragraph breaks, forcing formats to differ or inserting profanity. Read [Editorial Gold](../standards/editorial-gold.md) to calibrate the quality level, without copying the example ideas.
+
+## Exemplar-guided pass
+After editing and before delivery, compare the best drafts against [Editorial Gold](../standards/editorial-gold.md) and the excerpts in `literature/voice-and-tone.md`. Not for topical similarity: ask whether they have comparable conviction, wit, precision, originality and emotional staying power. If the new writing feels like a weaker imitation, regenerate the premise. The benchmarks are **not** post candidates, proven engagement examples or material to paraphrase.
 
 ## Step 7: Deliver
 Output clean post copy first when requested. Present short private editorial notes or scores separately only if useful. Preserve paragraph breaks. Never put internal category labels, evaluation text, mock engagement numbers, or production instructions inside the post.
