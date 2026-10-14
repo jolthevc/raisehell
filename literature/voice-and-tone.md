@@ -38,6 +38,44 @@ We can be unguardedly affectionate. A post about calling a parent may be entirel
 
 Avoid a repeated trajectory of ordinary scene -> psychological diagnosis -> benevolent instruction. It can work once; as a house formula, it becomes predictable.
 
+## Editorial Gold: the level to aim for
+The following are *voice-calibration examples*, not published posts, not proven engagement winners, and not automatic permission to publish. The full curated set, covering Fire, Truth, Swagger, Heart and Perspective with specific editorial rationale, is in [Editorial Gold](../standards/editorial-gold.md).
+
+These examples are more important as calibrators than schematic "Too generic / Closer" teaching fragments. Read the copy as writing, not as a checklist. Produce **different ideas at comparable force**, not paraphrases.
+
+**Fire.** Conviction without shouting:
+> You can build an extremely respectable life by disappointing yourself in private.
+
+**Defiance.** Two true feelings in tension:
+> You can love your life and still want to blow parts of it up. Gratitude isn't a life sentence.
+
+**Truth.** Specific behavior and a sharp image:
+> You call it your little book thing and laugh before anyone else can. The band. The business. The photographs you never show anyone.
+>
+> You've been heckling yourself in an empty room.
+
+**Swagger.** Social comedy that knows what it means:
+> Where do you want to eat? I don't mind. What do you want to watch? Whatever. What should we do this weekend? I'm easy.
+>
+> You think you're being easygoing. Keep it up for a few more years and you'll genuinely forget what you would have picked.
+>
+> Start small. Have an opinion about tacos. Work your way up to your life.
+
+**Humor with bite.** An affectionate consequence:
+> You stay up until 1:40 doing nothing on your phone because it's the only part of the day that feels like yours.
+>
+> Fair enough. But at 6:50 the alarm goes off and somebody has to pay for that freedom, and it's always the same poor bastard.
+>
+> Go to bed. Do him a favor. He's been carrying you for weeks.
+
+**Heart.** Care through a particular detail, without a moral:
+> Your oldest friends can make you laugh with two words nobody else would understand. That's a language you built without noticing.
+
+**Perspective.** A quiet observation that stays with the reader:
+> Some of the best hours of your life have no photographs. Nobody stopped to take one.
+
+**Important:** Some examples use similar forms or second-person voice. That is fine. The error is **reusing the same predictable insight**, not sharing an editorial signature. A new batch can include multiple excellent one-liners or multiple paragraphs when the thoughts earn those forms. No obligatory formal quota. Never reproduce these reference posts as fresh drafts.
+
 ## Examples of voice calibration
 These are **illustrative drafts, not proven Gold Standards**.
 
