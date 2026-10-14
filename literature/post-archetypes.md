@@ -53,6 +53,21 @@ Not a command to optimize but an invitation to participate.
 - Engine: a small vivid possibility.
 - Risk: syrupy sentiment.
 
+## Break the diagnosis-and-lesson default
+An archetype names a kind of *effect*, not a three-paragraph format. Do not assume a good post follows the sequence: relatable scene, hidden psychological meaning, tidy advice. This is especially important with the Quiet Gut Punch, Perspective Flip and Permission Slip, which can otherwise become interchangeable.
+
+Possible legitimate shapes include:
+- A single electrifying observation that refuses to explain itself.
+- A two-sentence contradiction with no advice.
+- An unapologetic declaration or challenge with earned stakes.
+- A small social comedy that stops on its funniest, truest image.
+- A quick confession in imperfect conversational language.
+- A paragraph of argument that gathers speed.
+- A tender detail left open, without a moral.
+- A brief story or longer meditation only if the progression earns its space.
+
+The form must grow out of the material. Do not rotate forms mechanically, and do not append a concluding imperative by habit.
+
 ## Form lengths
 - **Spark:** 1-2 sentences. Hit and leave.
 - **Short:** 3-5 lines, one movement or turn.
@@ -62,7 +77,7 @@ Not a command to optimize but an invitation to participate.
 No specific archetype owns any specific length. Avoid algorithmically assigning exact word counts.
 
 ## Editorial anti-repetition
-Across a batch, examine the first five words, number of paragraphs, ending punctuation, rhetorical questions, use of "you," and syntactic reversals. If the surface structures all resemble one another, diversify before publication.
+Across a batch, examine the first five words, number of paragraphs, ending punctuation, rhetorical questions, use of "you," and syntactic reversals. If the surface structures all resemble one another, **hold the batch and revise it before returning candidates**. Ten three-paragraph pieces are a generation failure, not ten independent ideas. Compare intellectual architecture too: repeated everyday scene -> emotional reveal -> advice is repetitive even when subjects differ.
 
 ## Illustrative only
 Any lines in this manual are teaching fragments, not approved posts and **not** Gold Standards.
