@@ -113,16 +113,18 @@ Your oldest friends can make you laugh with two words nobody else would understa
 
 **Do not copy:** Lists of old friends' embarrassing memories, or compulsory melancholy about people dying.
 
-## 9. No photographs
-**Register:** Perspective / Time. **Form:** Quiet two-sentence observation. **Source:** New editorial demonstration.
+## 9. The strictest person in the house
+**Register:** Perspective / Freedom. **Form:** Two-beat reversal. **Source:** New editorial demonstration.
 
 ```text
-Some of the best hours of your life have no photographs. Nobody stopped to take one.
+At twelve, you couldn't wait to grow up so nobody could tell you what to do.
+
+Funny how you ended up being the strictest person in the house.
 ```
 
-**Why it earns a place:** A gentle but slightly disorienting truth about how memories are formed. Nothing to do, no instruction, no fake urgency.
+**Why it earns a place:** Childhood's fantasy of freedom meets adult self-policing. The surprise is a human contradiction, not a sermon about time running out.
 
-**Do not copy:** Generic "put your phone down" advice or sentimental claims that documented experiences are inferior.
+**Do not copy:** Another childhood-versus-adulthood reversal, or a generic message about listening to your inner child.
 
 ## The quality bar underneath the examples
 
