@@ -1,58 +1,47 @@
-# Workflow | Ideation
+# Workflow | Ideation for Emotional Ignition
 
 ## Objective
-Generate original, lived-in premises that could support high-quality RAISE HELL posts. Avoid generating generic motivational copy first and trying to repair it later.
+Discover strong motivational *premises* that can become Gold-level RAISE HELL copy. Ideas needn't be philosophically novel. They must be **human, urgent, hopeful and powerful enough to launch into a strong ending**.
+
+## Preparation
+Read [Editorial Gold](../standards/editorial-gold.md) and [Voice and Tone](../literature/voice-and-tone.md). These are the owner's actual benchmark, not inspiration to paraphrase. Also read brand identity, emotional engineering and the latest quality standards.
 
 ## Inputs
-An optional theme, desired feeling, recent posts or topics to avoid, target quantity, and any owner-provided experiences or audience observations. If absent, choose a balanced range of human territories.
+Theme, requested count, desired emotional direction, recently generated or published ideas to avoid. If unspecified, choose from the broad territories in literature/content-territories.md with the high-energy brand center intact.
 
-## Reference the bar before inventing
-Read [Editorial Gold](../standards/editorial-gold.md), especially the *reasons* each example works. Reproduce none of the examples' exact wording, distinctive situations, gags or underlying conceptual moves. We want new thoughts with comparable voltage and emotional accuracy.
+## Step 1: Find emotional situations, not abstract topics
+- Someone has rehearsed failure and never pictured a yes.
+- Someone has an extraordinary future in front of them but acts like all the good has already happened.
+- Someone has been knocked down and needs fierce belief in what could still happen.
+- Someone has forgotten how much joy is available outside work.
+- Someone wants to take a leap and is waiting to be chosen.
 
-For a ten-post generation request, **explore substantially more than ten distinct premises before committing to finished copy**. First-draft safety is not selection. If the concepts are all familiar advice, don't polish them; invent better ones.
+These are **illustrations of the type of emotional stake, and several overlap existing Gold; don't regenerate them as new posts**. Find fresh tensions, choices, longings and concrete human circumstances.
 
-## Step 1: Situation inventory
-Write down concrete, recognizable situations and tensions:
-- What do people say they want, and what do they actually do?
-- Which small action reveals the contradiction?
-- What are they afraid to admit to others or themselves?
-- Where is the overlooked tenderness or comedy?
-- Which assumption could credibly be reversed?
+## Step 2: Choose the ignition
+Before writing, decide what the reader should want to do or believe:
+- Dare to imagine an amazing future.
+- Take the chance or make the move.
+- Reenter life after an honest setback.
+- Pursue the huge, personal dream.
+- Let themselves love or have an unbelievable time.
+- Face a real obligation courageously.
 
-Prefer *moments* to themes. "Confidence" is not a premise. "Making fun of your own idea before someone else can" is.
+Avoid therapy-first reframings unless they genuinely launch into these emotions.
 
-## Step 2: Form the core truth
-Express the potential insight plainly, in one sentence **not intended for publication**. If it is nothing more than "try harder," keep digging.
+## Step 3: Generate options privately
+For a request of ten, explore more than ten **different ideas**, not merely alternate syntax for one thought. Look at possible openings, what kind of middle would intensify the feeling, and **what decisive ending** the premise actually earns.
 
-## Step 3: Explore different feelings
-For each strong premise, test two or three emotional destinations, such as:
-- reassurance versus confrontation;
-- wit versus tenderness;
-- urgency versus perspective.
-Do not generate ten near-identical posts with only synonym swaps.
+If the middle has nowhere to go, the initial observation may not be a full RAISE HELL post.
 
-## Step 4: Change delivery
-Pick from post-archetypes.md, or invent a new shape. Test direct address, small scene, a single-line observation, compressed story, question, or confident command. Form should follow the particular idea.
+## Step 4: Select the strongest
+Favor energy, human truth, audience identification, action, belief, love, joy, memorable language and an ending worth standing up for. Do not penalize conventional motivational themes automatically. Don't waste time on clever novelty that leaves the reader unmoved.
 
-## Step 5: Originality and care screen
-Reject imagined villains, familiar cliches, forced metaphors, off-brand cruelty, and invented personal testimony. Do not mine grief just for guaranteed reaction.
+## Step 5: Prevent imitation
+Do not copy any Gold sentences or echo their specific central turns with a trivial change of nouns. Similar rhetoric, profanity, two-three paragraph format and the general motivational worldview are **allowed**, and often valuable.
 
-## Step 6: Prioritize
-Look for specific insight, freshness, emotional viability, and enough breadth of feeling to suit the brief. Choose fewer, better premises. Do not reject a great insight because it shares the rhythm of another great post. Reject echoes of their *ideas*. Calibrate literary force against Editorial Gold without paraphrasing it.
+## Step 6: Send to drafting
+The final output of an ideation-only request should be short concepts. When finished posts are requested, continue immediately through [drafting and revision](drafting-and-revision.md) and deliver only the best candidate posts.
 
-## Suggested ideation output
-For each of 8 to 15 concepts:
-- Working title (internal only)
-- Human situation
-- Underlying insight
-- Possible emotional landing
-- One surprising angle
-- Risks / tired versions to avoid
-
-If the user asks directly for finished posts, proceed through workflows/drafting-and-revision.md and present the strongest finished candidates instead of forcing an intermediate approval step.
-
-## Success is not a mechanical quota
-A distinctive publication can sometimes use similar sentence shapes or recurring themes. Consistency of personality is desirable. Consistency of **predictable conclusions**, stock psychological interpretations, and weak premises is not. Prioritize the best insights, then let each choose its own form.
-
-## Failure mode
-A list of vague topics with no actual observation. If 20 concepts could all reduce to "work hard" or "life is short," return to step 1.
+## Core question
+**What is the one thing this could make a person feel brave enough, hopeful enough or excited enough to do?** If the answer is merely "think about," keep working.
