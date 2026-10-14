@@ -6,6 +6,11 @@ Move from a real human observation to concise, memorable, original copy that fee
 ## Preparation
 Read AGENTS.md; literature/editorial-philosophy.md, voice-and-tone.md, emotional-engineering.md, literary-techniques.md, hooks-and-endings.md, language-and-style.md; and the standards files. Use workflows/ideation.md for weak or unformed inputs.
 
+## Step 0: Start with premises, not polished paragraphs
+For a multi-post brief, explore more candidate **ideas** than the final requested count. Favor discoveries with some intellectual or emotional risk: a hidden cost, a contradiction, a strange joy, a concrete act of nerve, a comic human truth. Compare the naked claims before writing beautiful sentences.
+
+Reject familiar advice dressed up as insight. If the first ideas sound like therapy, generic self-help or caption-ready platitudes, return to the source human situation and take a less expected angle. Do not use the first pass of safe ideas just because they are easy to explain.
+
 ## Step 1: Protect the core
 In plain prose, identify:
 - What is true here?
@@ -44,7 +49,17 @@ Challenge from three positions:
 Revise the underlying premise if necessary. Don't just swap adjectives.
 
 ## Step 6: Score, shortlist, diversify
-Apply hard vetoes and the six-part rubric. Mark survivors CANDIDATE. Compare neighboring posts and remove duplications. If nothing passes, say so and produce a stronger second exploration. Never fabricate confidence in a weak batch.
+Apply hard vetoes, the concept/brand gates, and the six-part rubric. Mark survivors CANDIDATE. Compare neighboring posts and remove duplications. Evaluate **the entire batch** for emotional temperature, original premises, ending functions and shapes. A Mixed batch that is all compassionate three-paragraph lessons has failed even if each item reads smoothly. If nothing passes, say so and produce a stronger second exploration. Never fabricate confidence in a weak batch.
+
+## Step 6a: Pass the publication-set test
+Before returning the requested number of posts, inspect:
+- Is there genuine Fire and Swagger, not just warm introspection, when the direction is Mixed?
+- Can two adjacent posts be mistaken for the same authorial template despite different subjects?
+- Are all pieces three short paragraphs or variations of scene -> diagnosis -> instruction?
+- Do some pieces end on a bold claim, a precise image, a joke or an earned silence instead of a homework assignment?
+- Is the underlying thought surprising enough to outlast the graphic and soundtrack?
+
+Re-ideate any failed spots. Do not solve uniformity by mechanically removing paragraph breaks or inserting profanity.
 
 ## Step 7: Deliver
 Output clean post copy first when requested. Present short private editorial notes or scores separately only if useful. Preserve paragraph breaks. Never put internal category labels, evaluation text, mock engagement numbers, or production instructions inside the post.
