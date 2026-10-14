@@ -16,7 +16,7 @@ The editorial source of truth for RAISE HELL, plus a lightweight [editorial cons
 3. [Editorial philosophy](literature/editorial-philosophy.md) and [voice and tone](literature/voice-and-tone.md).
 4. [Emotional engineering](literature/emotional-engineering.md), [content territories](literature/content-territories.md), and [post archetypes](literature/post-archetypes.md).
 5. [Literary techniques](literature/literary-techniques.md), [hooks and endings](literature/hooks-and-endings.md), and [language and style](literature/language-and-style.md).
-6. [Anti-patterns](standards/anti-patterns.md), [quality rubric](standards/quality-rubric.md), [editorial balance](standards/editorial-balance.md), and [Gold Standards](standards/gold-standards.md).
+6. **[Editorial Gold: curated writing benchmarks](standards/editorial-gold.md)**, then [anti-patterns](standards/anti-patterns.md), [quality rubric](standards/quality-rubric.md), [editorial balance](standards/editorial-balance.md), and [Performance Gold Standards](standards/gold-standards.md).
 7. For execution: [ideation](workflows/ideation.md), [drafting and revision](workflows/drafting-and-revision.md), and [final review](workflows/final-review.md).
 
 ## Editorial contract
@@ -27,7 +27,8 @@ The editorial source of truth for RAISE HELL, plus a lightweight [editorial cons
 - A post can be one line or several short paragraphs. Form follows the thought.
 - No weak or derivative work gets published just because a quota exists.
 - Publication requires human approval. Drafts are not approved pieces; examples in manuals are not proven hits.
-- [Gold Standards](standards/gold-standards.md) starts empty. Only actual published posts may be added by the owner, including through an expressly enabled, owner-configured performance threshold in the console. No synthetic winners.
+- [Editorial Gold](standards/editorial-gold.md) contains curated **untested** voice-calibration examples, selected or newly drafted at the owner's request. They instruct creative taste, not publication or observed performance. Do not repeat or paraphrase their copy.
+- [Performance Gold Standards](standards/gold-standards.md) starts empty and contains only actual published posts with observed metrics, added by the owner or through an expressly enabled, owner-configured console threshold. No synthetic winners.
 
 ## Brand snapshot
 | Dimension | Direction |
@@ -43,7 +44,7 @@ The editorial source of truth for RAISE HELL, plus a lightweight [editorial cons
 | Creative aspiration | Make someone feel understood, then make them feel capable of something bigger. |
 
 ## How to ask an AI to work here
-- **Generate:** "Read AGENTS.md and the required doctrine. Give me 12 genuinely distinct RAISE HELL candidates, with strong emotional variety, then self-edit and shortlist the best 4."
+- **Generate:** "Read AGENTS.md, the required doctrine and Editorial Gold. Give me original RAISE HELL pieces that reach the *quality* of the examples without copying their words, premises or structures. Explore more ideas than you return, then bring me the strongest candidates."
 - **Revise:** "Read the editorial standards. Diagnose this post and give me 3 materially different improvements without polishing its humanity away."
 - **Review:** "Evaluate these posts using the quality rubric and anti-pattern vetoes. Do not equate automated scores with actual engagement."
 - **Learn:** "Review these owner-confirmed performance results and suggest evidence-based lessons. Do not edit Gold Standards unless explicitly asked."
