@@ -47,9 +47,9 @@ A publishable post needs:
 For each candidate, identify exact words causing impact or weakness. Never write "5/5 shareability because viral" without evidence. Shareability is a hypothesis until measurable performance exists.
 
 ## Batch quality matters independently
-Before presenting ten candidates, look at the ten together. Check register, topic, architecture, number of paragraphs, ending function, implied speaker, and intellectual surprise. A set of ten with the same three-paragraph psychological-reveal-and-advice construction **fails batch review**, even when each individual item is reasonably written. Regenerate weak premises and forms instead of merely changing punctuation.
+Before presenting ten candidates, look at the ten together. Check register, topic, architecture, number of paragraphs, ending function, implied speaker, and intellectual surprise. A set of ten with the same safe psychological-reveal-and-advice *idea architecture* **fails batch review**, even when each individual item is reasonably written. Similar paragraph counts or narrative forms are acceptable when the ideas themselves differ and are strong. Regenerate weak premises and forms instead of merely changing punctuation.
 
-Especially when the requested direction is Mixed, look for real Fire and Swagger alongside Heart, Truth and Perspective. Variety is about thought and emotional stakes, not rotating tags to meet a quota.
+Especially when the requested direction is Mixed, look for real Fire and Swagger alongside Heart, Truth and Perspective. Variety is about thought and emotional stakes, not rotating tags or forms to meet a quota. Use [Editorial Gold](editorial-gold.md) as the positive quality benchmark, not as a bank of ideas to paraphrase.
 
 ## Adversarial editorial questions
 - Is the first sentence the first true thing, or throat-clearing?
@@ -72,6 +72,9 @@ Never advance content between these states by assertion alone.
 
 ## What a failed batch can look like
 A first live test produced ten tidy three-paragraph posts, predominantly gentle interpersonal and psychological observations. The individual work was often humane, but the aggregate effect was predictable, insufficiently daring, and too close to an advice account. Do not assign high Brand fit just because a post is compassionate or has a good ending. The diagnostic batch is **not** a set of Gold Standards.
+
+## Source-of-truth examples
+The primary positive literary reference is [Editorial Gold](editorial-gold.md), a curated set of untested creative benchmarks. Do not call them published or performance-proven. Reject derivative copy that merely echoes their moves, even when the original examples are excellent.
 
 ## Calibration
 As owner feedback and performance data arrive, keep human qualitative judgments alongside quantitative outcomes. Record disagreements. A post that underperformed may still be good writing; one that went viral may reveal a mechanism that we do not want to repeat.
