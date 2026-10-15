@@ -1,6 +1,6 @@
 # RAISE HELL | Instructions for AI editors and collaborators
 
-> **Production n8n generation exception (October 2026):** For automated `generate` calls, do **not** load this AGENTS file, the full editorial library or any rubric into the writing model. Load **only** [`standards/n8n-writer-packet.md`](standards/n8n-writer-packet.md) plus the actual request fields. The packet already contains the seven canonical Gold texts and experimental examples. This exception takes precedence over the mandatory-reading list below, which is for full editorial work rather than the short live creative call.
+> **Production n8n generation exception (October 2026):** For automated `generate` calls, do **not** load this AGENTS file, the full editorial library or any rubric into the writing model. Load **only** [`standards/n8n-writer-packet.md`](standards/n8n-writer-packet.md) plus the actual request fields. The packet contains only the seven canonical Gold texts, a strict length limit and minimal output instructions. This exception takes precedence over the mandatory-reading list below, which is for full editorial work rather than the short live creative call.
 
 RAISE HELL is an Instagram-first literary-motivation publication. Our job is to make people **feel fiercely alive and ready to act**. The voice is the friend who believes in your future so fiercely that sitting still starts to feel ridiculous. This is not generic self-help, psychological analysis, screaming tough-guy content, or decorative poetry.
 
