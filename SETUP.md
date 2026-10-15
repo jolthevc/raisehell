@@ -2,7 +2,7 @@
 
 The deployed console is a **single self-contained `index.html`** served by GitHub Pages. Styles, JavaScript, the MP4 muxer, and fonts are bundled into that file to keep the repository and deployment simple. The original modular files remain in the source ZIP for future editing. It connects three things you already have:
 
-- **n8n**: the existing `Raise Hell - Generation` workflow writes with Claude. The console only calls its webhook (`/webhook/raise-hell/generate`).
+- **n8n**: the existing `Raise Hell - Generation` workflow writes with its configured AI provider. The console only calls its webhook (`/webhook/raise-hell/generate`).
 - **Zernio**: the Instagram account, the music catalog, uploads, scheduling, publishing and analytics.
 - **GitHub**: the doctrine, and `standards/gold-standards.md`, which the console adds published examples to when you ask it to.
 
@@ -31,7 +31,7 @@ Catalog music only works when Instagram is connected **with Facebook Login**.
 
 Paste the production webhook URL of `Raise Hell - Generation`: `https://<your n8n host>/webhook/raise-hell/generate`. Not the `/webhook-test/` address. If the webhook uses Header Auth, add its key. In the workflow's Webhook node, set **Allowed Origins (CORS)** to `https://jolthevc.github.io` so the browser may call it.
 
-Press **Test with one post**. This asks the workflow for one real post (one Claude call) and confirms that the request and response shapes match. The post is not added to the desk.
+Press **Test with one post**. This asks the workflow for one real post (one AI model call) and confirms that the request and response shapes match. The post is not added to the desk.
 
 The console sends and expects exactly this. No new workflow is needed; if yours differs, the Test says what came back.
 
@@ -40,7 +40,7 @@ The console sends and expects exactly this. No new workflow is needed; if yours 
 | `{"action":"generate","count":10,"theme":"","direction":"","avoid_topics":[]}` | `{"posts":[{"text":"...", "territory":"", "emotion":"", "register":"", "archetype":"", "editorial_note":""}], "batch_note":""}` |
 | `{"action":"revise","text":"...","direction":"..."}` | `{"revisions":[{"text":"...","note":"..."}], "diagnosis":"..."}` |
 
-Only `posts[].text` is required; the labels are optional. Also accepted: `success` omitted (`"success": false` is treated as an error), n8n's one-item array wrapper, `candidates` instead of `posts`, and plain strings as posts. **Revise with Claude** works only if the workflow handles `action: "revise"`. If it does not, the console says so and hand editing still works.
+Only `posts[].text` is required; the labels are optional. Also accepted: `success` omitted (`"success": false` is treated as an error), n8n's one-item array wrapper, `candidates` instead of `posts`, and plain strings as posts. **Revise with AI** works only if the workflow handles `action: "revise"`. If it does not, the console says so and hand editing still works.
 
 The console does not send Gold Standards to the workflow, and does not assume the workflow reads `standards/gold-standards.md`.
 
@@ -192,7 +192,7 @@ Not tested, because no such browser was available here: Safari's and Windows or 
 
 Needs a live check with your accounts, in this order:
 
-1. **Test with one post** against `/webhook/raise-hell/generate`, and **Revise with Claude** once.
+1. **Test with one post** against `/webhook/raise-hell/generate`, and **Revise with AI** once.
 2. Whether Zernio accepts direct browser calls (CORS). If not, the relay.
 3. Facebook Login: the music search returns the catalog for your account.
 4. The test Reel in section 5: Instagram accepts the H.264 file as a Reel and the catalog track plays.
