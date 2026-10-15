@@ -8,7 +8,7 @@ Make the ending the strongest part. It should feel like **a shove toward a bigge
 
 Keep the Gold's attitude and emotional lift, but invent **new** wording and situations. Recurring human themes are fine. Treat `avoid_topics` only as **prohibited repeats**, never as prompts or inspiration. No em dashes.
 
-For the requested `count`, `theme` and `direction`, return **only valid JSON** in this shape: `{"posts":[{"text":"Paragraph one\\n\\nParagraph two\\n\\nParagraph three"}]}`. No notes, labels, scores, explanations or markdown fences.
+For the requested `count`, `theme` and `direction`, return **only valid JSON** in this shape: `{"posts":[{"text":"Paragraph one\n\nParagraph two\n\nParagraph three"}]}`. No notes, labels, scores, explanations or markdown fences.
 
 ## Seven owner-approved examples (exact copy)
 
