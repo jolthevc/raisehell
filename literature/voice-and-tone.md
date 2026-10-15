@@ -5,8 +5,8 @@ Write like somebody who grabs your attention just before the biggest game, bet, 
 
 The goal is **blood moving, head up, shoulders back, heart engaged**. Strong RAISE HELL copy is a motivational ignition, not a poignant observation looking for applause.
 
-## Exact owner-approved Gold excerpts
-The complete seven owner-approved pieces, with *exact* paragraph breaks, are in [Editorial Gold](../standards/editorial-gold.md). **This voice file deliberately embeds all seven complete canonical pieces** so the existing n8n GitHub fetch receives positive calibration even if it has not yet been taught to fetch the new file.
+## Exact owner-approved Gold examples
+The same seven owner-approved pieces, with **exact text and paragraph breaks**, are in [Editorial Gold](../standards/editorial-gold.md). They are embedded here only for compatibility with existing n8n fetches. The live writing workflow should load **one copy**, preferably the pure post texts from Editorial Gold.
 
 ### Gold 1: The best is still ahead
 ```text
@@ -24,15 +24,6 @@ You are so fucking prepared for disaster it's impressive.
 You've rehearsed the rejection, the embarrassment, the exact expression on everyone's face when it all falls apart. Fine. Now imagine the other possibility. The one where they say yes. The one where you walk out of that room trying not to grin like an idiot. The one where everything changes because you actually had the balls to try.
 
 That's on the table too. Act like it. Make the call. Submit the thing. Give success a chance to knock your fucking socks off.
-```
-
-### Gold 3: You are not fucking finished
-```text
-So you got knocked down. So fucking what?
-
-You're still here. You've still got a mind full of ideas, a heart that hasn't quit, and an entire future that doesn't give a damn what happened yesterday. One bad chapter doesn't get to decide how this whole thing ends.
-
-Get back in the game. Take another swing. There's too much left to do, too much left to see, and too much life left to live for you to start writing yourself off now.
 ```
 
 ### Gold 3: Go get the life you want
@@ -53,6 +44,15 @@ You're waiting for permission that nobody has the authority to give. You've got 
 So take it. Put your name on it. Be seen trying. Let your heart pound a little. That's not a sign to turn around. That's what it feels like when your life is actually happening.
 ```
 
+### Gold 5: You are not fucking finished
+```text
+So you got knocked down. So fucking what?
+
+You're still here. You've still got a mind full of ideas, a heart that hasn't quit, and an entire future that doesn't give a damn what happened yesterday. One bad chapter doesn't get to decide how this whole thing ends.
+
+Get back in the game. Take another swing. There's too much left to do, too much left to see, and too much life left to live for you to start writing yourself off now.
+```
+
 ### Gold 6: Go have a hell of a time
 ```text
 You are allowed to have an absolutely unbelievable time being alive.
@@ -70,7 +70,6 @@ Before the applause. Before the money. Before there's anything to point at and s
 
 So bet. Bet with your time, your effort, your willingness to look like an idiot for something you believe in. You get one life. Don't spend the whole damn thing sitting in the stands.
 ```
-
 These are **not new candidate posts**, not re-usable text and not evidence of observed engagement. Learn the emotional force, build, compact paragraphs, direct address, purposeful swearing, and high-voltage landing. Invent entirely new posts without close paraphrasing.
 
 ## Core voice behaviors
