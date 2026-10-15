@@ -5395,7 +5395,7 @@ if (typeof module === "object" && typeof module.exports === "object") Object.ass
     data.composer = { theme: theme, count: count, direction: direction };
     if (!set().demo && !set().n8n.url) return notice({ title: 'Add the generation webhook in Settings.', actions: [{ action: 'goto-settings', label: 'Open Settings' }, { action: 'use-demo', label: 'Use demo mode' }] });
     clearNotice();
-    var avoid = data.drafts.filter(function (d) { return d && d.source !== 'demo' && typeof d.text === 'string' && clean(d.text); }).slice(0, 20).map(function (d) { return clean(d.text).replace(/\s+/g, ' ').slice(0, 160); });
+    var avoid = data.drafts.filter(function (d) { return d && d.source !== 'demo' && typeof d.text === 'string' && clean(d.text); }).slice(0, 25).map(function (d) { return clean(d.text).split('\n')[0].replace(/\s+/g, ' ').slice(0, 80); }).filter(function (s, i, all) { return s && all.indexOf(s) === i; }).slice(0, 12);
     var controller = new AbortController();
     ui.generating = { controller: controller, started: Date.now(), count: count };
     ui.generating.timer = setInterval(function () { var el = $('#working-sub'); if (el && ui.generating) el.textContent = workingLine(Math.round((Date.now() - ui.generating.started) / 1000)); }, 1000);
