@@ -5055,7 +5055,7 @@ if (typeof module === "object" && typeof module.exports === "object") Object.ass
 
   function workingLine(secs) {
     if (set().demo) return 'Pulling labeled sample text.';
-    if (secs < 20) return 'Claude is reading the doctrine and drafting.';
+    if (secs < 20) return 'The writer is drafting from Editorial Gold.';
     if (secs < 60) return 'Drafting and self-editing. ' + secs + ' seconds so far.';
     return 'Still writing. Big batches can take a couple of minutes. ' + secs + ' seconds so far.';
   }
@@ -5395,14 +5395,14 @@ if (typeof module === "object" && typeof module.exports === "object") Object.ass
     data.composer = { theme: theme, count: count, direction: direction };
     if (!set().demo && !set().n8n.url) return notice({ title: 'Add the generation webhook in Settings.', actions: [{ action: 'goto-settings', label: 'Open Settings' }, { action: 'use-demo', label: 'Use demo mode' }] });
     clearNotice();
-    var avoid = data.drafts.filter(function (d) { return d.status !== 'candidate' && d.status !== 'discarded'; }).slice(0, 30).map(function (d) { return clean(d.text).split('\n')[0].slice(0, 90); });
+    var avoid = data.drafts.filter(function (d) { return d && d.source !== 'demo' && typeof d.text === 'string' && clean(d.text); }).slice(0, 20).map(function (d) { return clean(d.text).replace(/\s+/g, ' ').slice(0, 160); });
     var controller = new AbortController();
     ui.generating = { controller: controller, started: Date.now(), count: count };
     ui.generating.timer = setInterval(function () { var el = $('#working-sub'); if (el && ui.generating) el.textContent = workingLine(Math.round((Date.now() - ui.generating.started) / 1000)); }, 1000);
     render();
     S.n8n({ action: 'generate', count: count, theme: theme, direction: direction === 'Mixed' ? '' : direction, avoid_topics: avoid }, { controller: controller, timeoutMs: CONFIG.generateTimeoutMs })
       .then(function (r) {
-        var added = importPosts(r.posts, { theme: theme, direction: direction, note: r.batch_note || '', source: r.demo ? 'demo' : 'claude' });
+        var added = importPosts(r.posts, { theme: theme, direction: direction, note: r.batch_note || '', source: r.demo ? 'demo' : (r.raw && typeof r.raw.model === 'string' ? r.raw.model : (r.raw && typeof r.raw.provider === 'string' ? r.raw.provider : 'n8n')) });
         toast(added ? added + ' new candidate' + (added === 1 ? '' : 's') + '.' : 'The workflow returned no usable posts.');
       }, function (e) {
         if (e.kind === 'cancelled') return toast('Generation cancelled.');
