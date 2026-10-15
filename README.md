@@ -1,6 +1,8 @@
 # RAISE HELL
 ### A little fire for your day.
 
+**For automated n8n writing, use only [the one-file example-first writer packet](standards/n8n-writer-packet.md).** It contains seven exact owner-approved Gold examples plus three explicitly unapproved test samples and a minimal generation brief. The deeper reference library below is for human editors, not an input to every generation call.
+
 **You get one shot at being alive. Stop sleepwalking through it. Go do something fucking extraordinary with it.**
 
 RAISE HELL is an Instagram-first writing brand built to **make people feel alive, confident, hungry, hopeful and ready to go**. Direct, bold, heartfelt, often profane, occasionally funny. This is high-conviction motivation with real humanity behind it. The speaker believes in the reader, challenges hesitation and launches the reader toward action, love, possibility, or a hell of a good time.
