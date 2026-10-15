@@ -1033,7 +1033,7 @@ dialog.small-sheet { width: min(100vw - 2rem, 28rem); }
     <div class="sheet-actions">
       <div class="sheet-actions-left">
         <button type="button" class="button quiet" data-action="editor-restore">Restore original</button>
-        <button type="button" class="button quiet" data-action="editor-revise">Revise with Claude</button>
+        <button type="button" class="button quiet" data-action="editor-revise">Revise with AI</button>
       </div>
       <div class="sheet-actions-right">
         <button type="button" class="button quiet" data-action="editor-cancel">Cancel</button>
@@ -1055,7 +1055,7 @@ dialog.small-sheet { width: min(100vw - 2rem, 28rem); }
           <button type="button" class="preset" data-preset="More unexpected." aria-pressed="false">More unexpected</button>
         </div>
         <label class="visually-hidden" for="revise-custom">Custom instruction</label>
-        <textarea id="revise-custom" class="revise-custom" rows="2" maxlength="600" placeholder="Or tell Claude exactly what to change. Optional."></textarea>
+        <textarea id="revise-custom" class="revise-custom" rows="2" maxlength="600" placeholder="Or tell the writer exactly what to change. Optional."></textarea>
         <div class="revise-go"><button type="button" class="button primary" data-action="revise-request">Get 3 revisions</button></div>
       </div>
       <div class="revise-results" id="revise-results" aria-live="polite"></div>
@@ -3872,7 +3872,7 @@ if (typeof module === "object" && typeof module.exports === "object") Object.ass
         if (payload.action === 'revise') {
           var revisions = revisionsFrom(data);
           if (!revisions) {
-            if (postsFrom(data)) throw new ServiceError('The workflow does not handle revise requests yet.', 'It answered with new posts instead of revisions. Revise with Claude needs action "revise" support in the existing workflow (SETUP.md, section 3). Editing by hand works without it.', 'shape');
+            if (postsFrom(data)) throw new ServiceError('The workflow does not handle revise requests yet.', 'It answered with new posts instead of revisions. Revise with AI needs action "revise" support in the existing workflow (SETUP.md, section 3). Editing by hand works without it.', 'shape');
             throw new ServiceError('The generation workflow answered, but not with revisions.', 'Expected { revisions: [{ text, note }] }; it returned ' + shapeOf(data) + '.', 'shape');
           }
           return { revisions: revisions, diagnosis: typeof data.diagnosis === 'string' ? data.diagnosis : '', demo: !!data.demo, raw: data };
@@ -5733,7 +5733,7 @@ if (typeof module === "object" && typeof module.exports === "object") Object.ass
       case 'test-n8n':
         saveBlock($('form[data-block="connections"]'), true);
         // A real one-post generation: the only way to confirm the request and response shapes match.
-        ui.checks.n8n = { ok: true, text: 'Asking the workflow for one post. This calls Claude once and can take a minute.' }; render();
+        ui.checks.n8n = { ok: true, text: 'Asking the workflow for one post. This calls the configured model once and can take a minute.' }; render();
         S.n8n({ action: 'generate', count: 1, theme: '', direction: '', avoid_topics: [] }, { timeoutMs: CONFIG.generateTimeoutMs }).then(function (r) {
           ui.checks.n8n = r.posts.length ? { ok: true, text: 'The workflow answered with ' + plural(r.posts.length, 'post') + ' in the expected shape: "' + excerpt(r.posts[0].text, 70) + '". It was not added to the desk.' }
             : { ok: false, text: 'The workflow answered in the expected shape, but with no post text.' };
