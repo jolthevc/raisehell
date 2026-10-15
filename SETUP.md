@@ -29,7 +29,7 @@ Catalog music only works when Instagram is connected **with Facebook Login**.
 
 ### n8n (the existing Generation workflow)
 
-**Current production writing instructions:** For the `generate` branch, fetch `standards/n8n-writer-packet.md` and pass its entire text as the **only creative prompt**, together with request fields (`count`, `theme`, `direction`, `avoid_topics`). Remove previous editorial-document fetches and concatenated system prompts from that branch. Preserve the webhook/JSON contract, human approval and publishing. Do not conflate the three experimental packet samples with approved Editorial Gold. Return the actual `model` or `provider` in the top-level response metadata so the console can label it accurately.
+**Current production writing instructions:** For the `generate` branch, fetch `standards/n8n-writer-packet.md` and pass its entire text as the **only creative prompt**, together with request fields (`count`, `theme`, `direction`, `avoid_topics`). Remove previous editorial-document fetches and concatenated system prompts from that branch. Preserve the webhook/JSON contract, human approval and publishing. The packet includes only the seven owner-approved writing examples; do not append other sample posts or editorial documents. Return the actual `model` or `provider` in the top-level response metadata so the console can label it accurately.
 
 Paste the production webhook URL of `Raise Hell - Generation`: `https://<your n8n host>/webhook/raise-hell/generate`. Not the `/webhook-test/` address. If the webhook uses Header Auth, add its key. In the workflow's Webhook node, set **Allowed Origins (CORS)** to `https://jolthevc.github.io` so the browser may call it.
 
