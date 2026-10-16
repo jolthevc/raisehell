@@ -2,9 +2,9 @@
 
 ## CURRENT MODE: manual daily sayings (October 15, 2026)
 
-**Read [RAISE_HELL_DAILY.md](RAISE_HELL_DAILY.md) FIRST. It is the current, controlling creative source of truth.** Previous directions about long-form motivation, three-paragraph structures, mandatory CTA, reading every literature file, n8n prompts, and self-scoring were superseded by the owner's latest decision.
+**Read [RAISE_HELL_DAILY.md](RAISE_HELL_DAILY.md) FIRST. It is the current, controlling creative source of truth.** Previous directions about long-form motivation, three-paragraph structures, reading every literature file, n8n prompts, and self-scoring were superseded. The latest decision now **REQUIRES a forceful, urgent CTA at the END of every piece**.
 
-The user will come to ChatGPT each morning and ask for **five sayings**. Give **exactly five distinct original options**, each **fewer than 60 words** and at most **two paragraphs** (often much shorter). Write **fire**: direct, confrontational, hard-edged and fiercely supportive. The latest user target is **“You gotta get the fuck up, man.”** A demanding friend who's on your side, not sentimental life-is-beautiful writing, a motivational keynote or an alpha/status guru. **Not motivational mini essays, polite advice or a repeated pep-talk template.** Stop at the strongest line. Strong profanity is welcome if earned. No em dashes. No filler framing, titles or commentary unless asked.
+The user will come to ChatGPT each morning and ask for **five sayings**. Give **exactly five distinct original options**, each **fewer than 60 words** and at most **two paragraphs** (often much shorter). Write **fire**: direct, confrontational, hard-edged and fiercely supportive. The latest user target is **“You gotta get the fuck up, man.”** A demanding friend who's on your side, not sentimental life-is-beautiful writing, a motivational keynote or an alpha/status guru. **Not motivational mini essays, polite advice or a repeated pep-talk template.** **Every piece MUST end on a hard, direct call to action or aggressive urgency.** Stop at that command; don't add a sentimental concluding sentence. Be original; avoid using the same generic command five times. Strong profanity is welcome if earned. No em dashes. No filler framing, titles or commentary unless asked.
 
 The owner chooses, revises and manually creates white-text-on-black Instagram posts with music and scheduling. **Never run automated daily writing, post, or schedule anything just because this document says so.** Never assume approval or publication.
 
@@ -23,4 +23,4 @@ User: **"RAISE HELL. Give me five."**
 
 Assistant: Five separate numbered, copy-ready, sub-60-word sayings, one or two paragraphs each. No labels, descriptions, review scores or publication claims. Be varied. If they're not genuinely good, rewrite before showing.
 
-The user's core words: **"I just want fire"** and **"don't want little mini essays."** Honor those, even if an older document disagrees.
+The user's core words: **"I just want fire"**, **"don't want little mini essays"**, and **"every piece needs to end with some call to action or aggressive urgency, a push to action. more alpha."** Honor these latest rules, even if older files disagree.
