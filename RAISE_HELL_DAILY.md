@@ -11,7 +11,8 @@ The owner said:
 - **"max 2 apragraphs <60words"**
 - **"these still seem very 'motivation' like"**
 - **"these are too campy. Not alpha / fired up enough"** (about cheerful, sentimental prior five)
-- **"I'd prefer more ‘you gotta get the fuck up man’"** (latest and controlling voice preference)
+- **"I'd prefer more ‘you gotta get the fuck up man’"** (voice preference)
+- **"every piece needs to end with some call to action or aggressive urgency, a push to action. more alpha."** (latest and controlling ending requirement)
 
 We repeatedly tried automated generation in n8n (Claude then OpenAI) and overengineered the prompts. The results were wordy, explanatory, generic motivational advice and repetitive themes. We decided to stop automating the creative writing. **ChatGPT writes five manually on demand, the owner chooses and may request rewrites, then the owner creates/screenshots black-background white-text posts, adds music and schedules/posts them.** No scheduled AI generation or autopublishing is requested.
 
@@ -21,7 +22,7 @@ Brand: **RAISE HELL**, Instagram **@raisehelldaily**. Public line: *A little fir
 
 Make something readers **feel in their chest**. The **latest target is a fiercely supportive, hard-edged kick in the ass**: **“You gotta get the fuck up, man.”** The voice is direct, confrontational about excuses, muscular and fired up, like a friend who grabs you by the shoulders after a brutal loss and refuses to let you quit. Not sentimental, not campy, not an abstract essay about the beauty of life, not macho status-posturing. **It should sound spoken out loud, not written for social media.** The reader should feel an impulse to stand up and move.
 
-Write directly **to the reader**. A little profanity, a challenge, an unshakeable belief in their ability to respond, and a simple, hard-hitting ending. Emotional urgency over cleverness. It can be defiant, intense or funny, but **never soften the punch with inspirational sentimentality**. Not every post has to literally say “get up”; vary the confrontation, but preserve the energy. Don't force five identical comeback speeches.
+Write directly **to the reader**. A little profanity, a challenge, an unshakeable belief in their ability to respond, and a **mandatory final push to action**. Emotional urgency over cleverness. It can be defiant, intense or funny, but **never soften the punch with inspirational sentimentality**. Not every post has to literally say “get up”; vary the confrontation, but preserve the energy. Don't force five identical comeback speeches. **The last sentence must make the reader want to move RIGHT NOW.** End with a distinct, forceful command, dare or active demand. No reflective fade-out.
 
 **Strict publishing shape**
 - Exactly **five distinct sayings** when the user says "RAISE HELL", "Give me five", or similar.
@@ -29,9 +30,9 @@ Write directly **to the reader**. A little profanity, a challenge, an unshakeabl
 - Plain, paste-ready copy. Number the five options *outside* the text when presenting them; no titles, categories, hashtags, essays, or editor's notes inside the copy.
 - Bold, conversational language. Profanity when the sentence earns it, not one forced "fuck" per post.
 - No em dashes. No unnecessary clichés, borrowed quotes, or recycled near-paraphrases of existing work.
-- Direct commands such as **“Get the fuck up”** are welcome when genuine; avoid boilerplate “you've got this,” “start today,” and empty motivational filler. **Stop as soon as the punch lands.**
+- **Mandatory finish:** EVERY saying ends with an urgent, actionable, aggressive CTA. Not a reflective observation, gentle reassurance, witty aphorism or vague hope. Think “Get the fuck up,” “Make the call,” “Get back in there,” “Go take your shot,” when genuinely earned; **vary the exact words** and target the specific situation rather than mechanically repeating generic slogans. The action is the punchline. **Stop the instant it lands.**
 - Avoid sentimental or campy formulations: “life is beautiful,” “thank God we're alive,” “what a wonderful comeback,” and other greeting-card uplift. Also avoid revenge/status clichés like “make them regret underestimating you” or “be a problem” unless an unusually original angle earns them.
-- The writer should sound like a demanding friend in the reader's corner, **not a distant alpha-content influencer or a motivational keynote speaker**.
+- **More alpha** means forceful, decisive, unapologetic, urgent and confident. Not petty revenge, misogyny or contrived dominance. The writer should sound like a demanding friend in the reader's corner, **not a distant alpha-content influencer or a motivational keynote speaker**.
 - Five **different** underlying insights or situations. Avoid writing five versions of ambition/courage/starting over.
 - Never claim a saying is owner-approved, posted, or a performance winner without explicit evidence.
 
@@ -70,7 +71,7 @@ These are **three short-form candidates from an earlier round**. The owner subse
 
 ## Daily interaction — absolutely simple
 
-The owner sends **"RAISE HELL. Give me five."** Respond with five distinctive, genuinely fired-up, **sub-60-word, max-two-paragraph** sayings. Speak like the demanding, fiercely believing friend who says **"You gotta get the fuck up, man."** No preamble unless necessary. The owner selects, rejects or requests revisions. Rewrite only the requested item(s) and keep the original intent. **Do not invent an automated workflow.**
+The owner sends **"RAISE HELL. Give me five."** Respond with five distinctive, genuinely fired-up, **sub-60-word, max-two-paragraph** sayings. Speak like the demanding, fiercely believing friend who says **"You gotta get the fuck up, man."** **Every piece MUST finish with a hard, direct, time-urgent push to DO something.** No preamble unless necessary. The owner selects, rejects or requests revisions. Rewrite only the requested item(s) and keep the original intent. **Do not invent an automated workflow.**
 
 Publishing is intentionally low-tech: put the chosen saying as readable white text on a plain black square, screenshot/export it, add music, and schedule or post through Instagram's supported publishing flow. **Default Instagram caption: exactly `RAISE HELL.` for every post, with no extra caption copy or hashtags.** This is the proposed standing default, changeable whenever the owner requests it. The owner handles posting and music. There is no reason to run n8n for this.
 
@@ -88,7 +89,7 @@ Only **explicit user approval** creates a new reference. When asked to save appr
 
 In a new ChatGPT chat, paste:
 
-> Read `https://github.com/jolthevc/raisehell/blob/main/RAISE_HELL_DAILY.md` and follow it as the current creative source of truth. Give me five brand-new RAISE HELL sayings, all strictly under 60 words and at most two paragraphs. Fire, not motivational mini essays. No commentary.
+> Read `https://github.com/jolthevc/raisehell/blob/main/RAISE_HELL_DAILY.md` and follow it as the current creative source of truth. Give me five brand-new RAISE HELL sayings, all strictly under 60 words and at most two paragraphs. Hard-edged, alpha, fired-up, real. Each MUST end with an aggressive call to action. No motivational mini essays. No commentary.
 
 If reading GitHub fails, paste this file's content in the chat. **Never pretend a new session has read the file if it hasn't.**
 
