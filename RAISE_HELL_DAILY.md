@@ -12,21 +12,38 @@ The owner said:
 - **"these still seem very 'motivation' like"**
 - **"these are too campy. Not alpha / fired up enough"** (about cheerful, sentimental prior five)
 - **"I'd prefer more ‘you gotta get the fuck up man’"** (voice preference)
-- **"every piece needs to end with some call to action or aggressive urgency, a push to action. more alpha."** (latest and controlling ending requirement)
+- **"every piece needs to end with some call to action or aggressive urgency, a push to action. more alpha."** (ending requirement)
+- **"I think we just need to be more blunt and to the point. get the fuck up man. you’re made for this, this is the time to fuckjng shine. You failed? Great. keep fucking getting up. Again and again and again."** (LATEST and most authoritative creative calibration, exact user wording)
 
 We repeatedly tried automated generation in n8n (Claude then OpenAI) and overengineered the prompts. The results were wordy, explanatory, generic motivational advice and repetitive themes. We decided to stop automating the creative writing. **ChatGPT writes five manually on demand, the owner chooses and may request rewrites, then the owner creates/screenshots black-background white-text posts, adds music and schedules/posts them.** No scheduled AI generation or autopublishing is requested.
 
 Brand: **RAISE HELL**, Instagram **@raisehelldaily**. Public line: *A little fire for your day.* Belief: refuse to sleepwalk through your one shot at being alive. High energy need not be angry, macho or insulting. It can be wildly optimistic, audacious, funny, tender, exhilarating or defiant.
 
+## The newest creative calibration: ABSOLUTE BLUNTNESS
+
+**Priority over all older examples and instructions:** The owner explicitly said:
+
+> I think we just need to be more blunt and to the point. get the fuck up man. you’re made for this, this is the time to fuckjng shine. You failed? Great. keep fucking getting up. Again and again and again.
+
+This is **direct owner-authored tonal guidance**, not an approved publishable post. Preserve the sentiment, cadence, straight talk and relentless repetition. Don't sanitize the swearing or "upgrade" the language into polished writing. The power is the conviction. The speaker believes in you **without having to prove why**. A commanding friend in your face: **Get the fuck up. You were made for this. This is the moment. You failed? Fine. Get up. Again. AGAIN.**
+
+- **Blunt > clever**. No wordy setup, life-philosophy essay, metaphor, protracted narrative, sports-scoreboard metaphor, analysis or polished zinger necessary.
+- **Direct address and imperatives**: "Get up", "Go again", "This is your moment", "Give it everything", "Take the shot". One demand at a time; build a visceral rhythm.
+- **Use repetition when it hits**: "Again. And again. And again." Short, hard sentences, spoken cadence and real urgency. No empty repetition to pad length.
+- **Even shorter is better**: target **15–35 words**; fewer than **60 words absolute**, maximum **two paragraphs**. A single strong paragraph is preferred.
+- **Finish like an order, never a reflection.** No soft conclusion or qualifying afterthought.
+- Avoid manufactured alpha clichés, adversarial "haters", revenge, overexplaining why the reader deserves success, and copying the owner's exact wording into every new post.
+- Examples written by assistants in this conversation have **not** been user-approved unless the owner explicitly says so. This owner-authored calibration overrides their tone.
+
 ## What "fire" actually means
 
-Make something readers **feel in their chest**. The **latest target is a fiercely supportive, hard-edged kick in the ass**: **“You gotta get the fuck up, man.”** The voice is direct, confrontational about excuses, muscular and fired up, like a friend who grabs you by the shoulders after a brutal loss and refuses to let you quit. Not sentimental, not campy, not an abstract essay about the beauty of life, not macho status-posturing. **It should sound spoken out loud, not written for social media.** The reader should feel an impulse to stand up and move.
+Make something readers **feel in their chest**. The **latest target is a fiercely supportive, hard-edged kick in the ass**: **“You gotta get the fuck up, man.”** The voice is direct, confrontational about excuses, muscular and fired up, like a friend who grabs you by the shoulders after a brutal loss and refuses to let you quit. **Not a writer showing off writing.** Not sentimental, not campy, not an abstract essay about the beauty of life, not macho status-posturing. **It should sound spoken out loud, not written for social media.** The reader should feel an impulse to stand up and move.
 
 Write directly **to the reader**. A little profanity, a challenge, an unshakeable belief in their ability to respond, and a **mandatory final push to action**. Emotional urgency over cleverness. It can be defiant, intense or funny, but **never soften the punch with inspirational sentimentality**. Not every post has to literally say “get up”; vary the confrontation, but preserve the energy. Don't force five identical comeback speeches. **The last sentence must make the reader want to move RIGHT NOW.** End with a distinct, forceful command, dare or active demand. No reflective fade-out.
 
 **Strict publishing shape**
 - Exactly **five distinct sayings** when the user says "RAISE HELL", "Give me five", or similar.
-- **Fewer than 60 words per saying**, ideally around 20–45. **One or two paragraphs maximum.** A single punchy paragraph is often best. Treat these as ceilings, not targets to fill.
+- **Fewer than 60 words per saying**, ideally around **15–35**. **One or two paragraphs maximum.** A single punchy paragraph is often best. Treat these as ceilings, not targets to fill.
 - Plain, paste-ready copy. Number the five options *outside* the text when presenting them; no titles, categories, hashtags, essays, or editor's notes inside the copy.
 - Bold, conversational language. Profanity when the sentence earns it, not one forced "fuck" per post.
 - No em dashes. No unnecessary clichés, borrowed quotes, or recycled near-paraphrases of existing work.
