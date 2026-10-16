@@ -1,59 +1,35 @@
 # RAISE HELL
-### A little fire for your day.
 
-**For automated n8n writing, use only [the one-file example-first writer packet](standards/n8n-writer-packet.md).** It contains seven exact owner-approved Gold examples, a short generation brief and a strict limit of fewer than 60 words and no more than two paragraphs per post. The deeper reference library below is for human editors, not an input to every generation call.
+**A little fire for your day.** An Instagram account for sharp, fearless, memorable short sayings.
 
-**You get one shot at being alive. Stop sleepwalking through it. Go do something fucking extraordinary with it.**
+## Start here: current creative workflow
 
-RAISE HELL is an Instagram-first writing brand built to **make people feel alive, confident, hungry, hopeful and ready to go**. Direct, bold, heartfelt, often profane, occasionally funny. This is high-conviction motivation with real humanity behind it. The speaker believes in the reader, challenges hesitation and launches the reader toward action, love, possibility, or a hell of a good time.
+### [RAISE_HELL_DAILY.md — canonical daily handoff](RAISE_HELL_DAILY.md)
 
-The writing should feel like the locker-room talk before the game of your life. **Not rage. Not shame. Ignition.**
+**As of October 15, 2026, writing is MANUAL in ChatGPT, not automated through n8n.** Each morning, the owner can say **"RAISE HELL. Give me five."** ChatGPT returns five original sayings that are **strictly under 60 words and at most two paragraphs**. The user selects/revises, places copy as white text on a black background, screenshots/exports, adds music and schedules/posts manually.
 
-## Source of truth
-**Start with the exact seven owner-approved [Editorial Gold examples](standards/editorial-gold.md).** They are the creative target. The seven Gold pieces were owner-approved as benchmarks in October 2026, **not** automatically approved to publish and **not** verified as performance winners.
+This is **fire, not motivational mini essays**. Brief, bold, irreverent, original, alive. No forced calls to action, lengthy explanation, or uniformly inspirational speaker voice. The owner chooses what is publishable.
 
-Then read:
-1. [AGENTS.md](AGENTS.md): precedence, AI operating instructions, boundaries and creative checklist.
-2. [Brand identity](brand/identity.md), [manifesto](brand/manifesto.md), [audience and promise](brand/audience-and-promise.md).
-3. [Voice and tone](literature/voice-and-tone.md), [editorial philosophy](literature/editorial-philosophy.md), [emotional engineering](literature/emotional-engineering.md).
-4. [Language and style](literature/language-and-style.md), [hooks and endings](literature/hooks-and-endings.md), [content territories](literature/content-territories.md), [literary techniques](literature/literary-techniques.md), [post archetypes](literature/post-archetypes.md).
-5. [Anti-patterns](standards/anti-patterns.md), [quality rubric](standards/quality-rubric.md), [editorial balance](standards/editorial-balance.md).
-6. [Ideation](workflows/ideation.md), [drafting and revision](workflows/drafting-and-revision.md), [final review](workflows/final-review.md), [performance learning](workflows/performance-learning.md).
+For any new ChatGPT session, **read [the complete daily handoff](RAISE_HELL_DAILY.md) and [AGENTS.md](AGENTS.md)**, then write the five sayings. The handoff includes original short-form demonstration examples, the history of rejected formats, owner feedback, and a place to retain future expressly approved copy. A new chat can be restored by providing that one URL.
 
-**Editorial Gold outranks older illustrative examples or vague style advice wherever they conflict.**
+## Brand
 
-## The writing contract
-- **Emotion before intellectual cleverness.** Make readers want to get up, try, build, love, recover or enjoy life.
-- **Optimism with balls.** Imagine how spectacularly things could go right without guaranteeing it.
-- **2-3 short, muscular paragraphs are the sweet spot.** Arresting opening, rising conviction, **forceful and forward-moving ending**.
-- **Swear frequently when effective.** Fuck, fucking, shit, damn and hell are genuine brand vocabulary. Never make profanity the only substance.
-- **Promote the reader into action**, rather than accuse, ridicule or merely analyze them.
-- **Direct motivation is welcome.** Originality is in delivery, emotional truth, energy and memorable specificity, not the creation of obscure philosophical ideas.
-- **Recognizable style is desirable.** Don't force artificial variation or rigid emotional quotas. Don't paraphrase Gold examples as new posts.
-- **Never demean vulnerable people, manufacture opponents, guarantee success or invent facts.**
+- Name: **RAISE HELL**
+- Instagram: **@raisehelldaily**
+- Tagline: **A little fire for your day**
+- Thought: Refuse to sleepwalk through your one shot at being alive
+- Canvas: Minimal black background with readable white text; music added in the posting flow
+- Tone: Human, audacious, funny, defiant, joyful, sometimes profane. Fire without contempt
 
-## Publication and performance
-The repo contains a one-file [editorial console](index.html) for GitHub Pages, calling the existing n8n Generation webhook and Zernio. See [SETUP.md](SETUP.md) for activation and technical caveats.
+## Sources, with explicit priority
 
-- New generated drafts are **candidates**, not human-approved publications.
-- **Editorial Gold:** [standards/editorial-gold.md](standards/editorial-gold.md) is the owner-approved *writing quality* reference. It is not a library of published wins.
-- **Performance Gold:** [standards/gold-standards.md](standards/gold-standards.md) is the console-managed archive of *published, performance-observed posts*. It stays separate to preserve data integrity.
-- Publication and promotion require the owner or authorized reviewer.
+1. **[Current manual creative source of truth](RAISE_HELL_DAILY.md)** — read this first for daily saying requests.
+2. **[AGENTS.md](AGENTS.md)** — concise AI instructions and priority rules.
+3. **[Seven owner-approved Editorial Gold pieces](standards/editorial-gold.md)** — historical long-form emotional/voice references; **not** the current word count, structure or publishing approval.
+4. **[Performance Gold Standards](standards/gold-standards.md)** — publication/performance archive, separate from editorial examples.
 
-## Brand snapshot
-| Dimension | Direction |
-|---|---|
-| Name | RAISE HELL |
-| Tagline | A little fire for your day. |
-| Social handle direction | @raisehelldaily |
-| Visual identity | Black field, restrained white typography, burning match symbol |
-| Preferred form | 2-3 short paragraphs, high-impact opening and a **launching** final beat |
-| Emotional output | Alive. Confident. Hungry. Ready to go. |
-| Tone | Fiercely encouraging, audacious, human, frequently and naturally profane |
-| Enemy | Passive resignation and needless self-limitation, **not** other people |
-| Primary creative benchmark | Seven owner-approved Editorial Gold examples |
+## Legacy material retained, not active creative instructions
 
-## Practical AI generation brief
-"Read AGENTS.md, standards/editorial-gold.md and literature/voice-and-tone.md first. Generate truly new RAISE HELL posts with the **emotional energy and effective closings** of the seven owner-approved Gold examples. Default to 2-3 short paragraphs. Build belief, excitement or urgency. Swear naturally and frequently for effect. Challenge the reader **into** action without shaming them. Explore more premises than you deliver and select only candidates that genuinely get the blood going. Do not copy the Gold wording or distinctive ideas."
+The old [n8n writer prompt](standards/n8n-writer-packet.md), [editorial console](index.html), [setup guide](SETUP.md), `brand/`, `literature/`, and `workflows/` preserve earlier explorations and optional operational resources. They are **not part of the daily writing process** and may contain outdated advice about two or three paragraphs, motivational closings, prompt engineering or automatic generation.
 
-**Status:** Brand and literary source-of-truth updated October 2026. The console and existing integration architecture are independent of these editorial files.
+Nothing in the repository gives permission to publish or schedule posts without explicit owner approval. If the owner later wants to reactivate automation, discuss that as a new decision rather than silently restoring it.
