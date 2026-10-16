@@ -8,7 +8,7 @@
 
 **As of October 15, 2026, writing is MANUAL in ChatGPT, not automated through n8n.** Each morning, the owner can say **"RAISE HELL. Give me five."** ChatGPT returns five original sayings that are **strictly under 60 words and at most two paragraphs**. The user selects/revises, places copy as white text on a black background, screenshots/exports, adds music and schedules/posts manually.
 
-This is **fire, not motivational mini essays**. Brief, bold, irreverent, original, alive. No forced calls to action, lengthy explanation, or uniformly inspirational speaker voice. The owner chooses what is publishable.
+This is **fire, not motivational mini essays**. The owner's latest direction: **“You gotta get the fuck up, man.”** Direct, urgent, demanding and fiercely on the reader's side, without campy sentiment or alpha-status posing. Brief, bold, irreverent and spoken like a real person, not a generic self-help speaker. The owner chooses what is publishable. **Default post caption: `RAISE HELL.`**
 
 For any new ChatGPT session, **read [the complete daily handoff](RAISE_HELL_DAILY.md) and [AGENTS.md](AGENTS.md)**, then write the five sayings. The handoff includes original short-form demonstration examples, the history of rejected formats, owner feedback, and a place to retain future expressly approved copy. A new chat can be restored by providing that one URL.
 
