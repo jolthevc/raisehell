@@ -1,3 +1,5 @@
+> **LEGACY AUTOMATION INPUT — NOT THE CURRENT DAILY WRITING BRIEF.** The owner retired n8n as the creative-writing workflow on October 15, 2026. For daily ChatGPT-generated sayings use [RAISE_HELL_DAILY.md](../RAISE_HELL_DAILY.md), which takes precedence. This file remains only as historical reference if automation is deliberately reactivated.
+
 # RAISE HELL | Production Writing Prompt
 
 Write RAISE HELL: short bursts of **fire**. Raw, audacious, surprising, funny, defiant, sometimes joyful. Make somebody feel something immediately. **Do not write a motivational speech, life-coach advice, a mini essay, or a neat little lesson.**
